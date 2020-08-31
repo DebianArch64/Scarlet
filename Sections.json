@@ -1,0 +1,15 @@
+
+[{
+	"Jailbreak": [{
+		"name": "unc0ver",
+		"icon": "https://cdn.discordapp.com/attachments/534150236873031681/744080662168076299/AppIcon60x602x.png",
+		"down": "itms-services://?action=download-manifest&url=https://endercypher.dev/ProjXyt/PLISTS/Unc0ver.plist"
+	}],
+	"Games": [{
+		"name": "FlappyBird",
+		"icon": "https://endercypher.dev/ProjXyt/9582F2FE-4E03-4E4D-A9D1-E10E3C74F6F3.png",
+		"down": "itms-services://?action=download-manifest&url=https://endercypher.dev/ProjXyt/PLISTS/FlappyBird.plist"
+
+	}]
+
+}]
