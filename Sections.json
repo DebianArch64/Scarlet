@@ -2,7 +2,7 @@
 [{
 	"Credits": [{
 	"name": "DebianArch64",
-	"icon": "",
+	"icon": "https://github.com/DebianArch64/Crimson/raw/master/Credits/Debian.jpg",
 	"status": "Owner/App Developer",
 	"link": "https://twitter.com/DebianArch"
 	
