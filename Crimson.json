@@ -1,7 +1,7 @@
 
 [{
         "name": "unc0ver",
-        "icon": "https://cdn.discordapp.com/attachments/534150236873031681/744080662168076299/AppIcon60x602x.png",
+        "icon": "https://github.com/DebianArch64/Crimson/blob/master/Icons/unc0ver.png",
         "down": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/Unc0ver.plist",
         "group": "Jailbreak"
     }, {
