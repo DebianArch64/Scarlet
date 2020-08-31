@@ -14,7 +14,7 @@
     
     }, {
         "name": "Flappy Bird",
-        "icon": "https://endercypher.dev/ProjXyt/9582F2FE-4E03-4E4D-A9D1-E10E3C74F6F3.png",
+        "icon": "https://github.com/DebianArch64/Crimson/raw/master/Icons/FlappyBird.png",
         "down": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/FlappyBird.plist",
         "group": "Games"
     }]
