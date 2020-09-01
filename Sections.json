@@ -20,30 +20,25 @@
         "down": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/Odyssey.plist"
 
 	}],
-	"Crimson Apps": [{
+	"CrimsonApps": [{
 		"name": "FlappyBird",
 		"icon": "https://github.com/DebianArch64/Crimson/raw/master/Icons/FlappyBird.png",
 		"down": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/FlappyBird.plist"
 
 	}],
-	"Hacked Games": [{
+	"HackedGames": [{
 		"name": "FlappyBird",
 		"icon": "https://github.com/DebianArch64/Crimson/raw/master/Icons/FlappyBird.png",
 		"down": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/FlappyBird.plist"
 
 	}],
-		"Tweaked Apps": [{
+		"TweakedApps": [{
 		"name": "FlappyBird",
 		"icon": "https://github.com/DebianArch64/Crimson/raw/master/Icons/FlappyBird.png",
 		"down": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/FlappyBird.plist"
 
 	}], 
-			"AppStore Apps": [{
-		"name": "FlappyBird",
-		"icon": "https://github.com/DebianArch64/Crimson/raw/master/Icons/FlappyBird.png",
-		"down": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/FlappyBird.plist"
 
-	}],
 				"Emulators": [{
 		"name": "FlappyBird",
 		"icon": "https://github.com/DebianArch64/Crimson/raw/master/Icons/FlappyBird.png",
