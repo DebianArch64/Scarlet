@@ -25,6 +25,12 @@
         "icon": "https://github.com/DebianArch64/Crimson/raw/master/Icons/chimera.png",
         "down": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/chimera.plist"
 
+}, {
+
+        "name": "Electra",
+        "icon": "https://github.com/DebianArch64/Crimson/raw/master/Icons/electra.png",
+        "down": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/electra.plist"
+
 }],
 	"CrimsonApps": [{
 		"name": "FlappyBird",
