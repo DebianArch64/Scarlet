@@ -16,7 +16,7 @@
 <key>metadata</key>
 <dict>
 <key>bundle-identifier</key>
-<string>com.spotify.client</string>
+<string>io.crafterpika.spotify</string>
 <key>bundle-version</key>
 <string>8.4.4.3</string>
 <key>kind</key>
