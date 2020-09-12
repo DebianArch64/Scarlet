@@ -49,6 +49,11 @@
 		"icon": "https://github.com/DebianArch64/Crimson/raw/master/Icons/FlappyBird.png",
 		"down": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/FlappyBird.plist"
 
+	}, {
+		"name": "Sposify w/ Spotilife",
+		"icon": "https://github.com/DebianArch64/Crimson/raw/master/Icons/sposify.png",
+		"down": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/sposify.plist"
+
 	}], 
 
 				"Emulators": [{
