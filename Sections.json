@@ -53,6 +53,11 @@
 		"icon": "https://github.com/DebianArch64/Crimson/raw/master/Icons/amongus.png",
 		"down": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/amongus.plist"
 
+	}, {
+		"name": "Subway Surfers",
+		"icon": "https://github.com/DebianArch64/Crimson/raw/master/Icons/subwaysurfers.png",
+		"down": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/subwaysurfers.plist"
+
 	}],
 	"TweakedApps": [{
 		"name": "Sposify w/ Spotilife",
@@ -85,6 +90,21 @@
 		"name": "iNDS",
 		"icon": "https://github.com/DebianArch64/Crimson/raw/master/Icons/inds.png",
 		"down": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/inds.plist"
+
+	}, {
+		"name": "Delta",
+		"icon": "https://github.com/DebianArch64/Crimson/raw/master/Icons/delta.png",
+		"down": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/delta.plist"
+
+	}, {
+		"name": "PPSSPP",
+		"icon": "https://github.com/DebianArch64/Crimson/raw/master/Icons/PPSSPP.png",
+		"down": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/PPSSPP.plist"
+
+	}, {
+		"name": "MAME4iOS",
+		"icon": "https://github.com/DebianArch64/Crimson/raw/master/Icons/mame4ios.png",
+		"down": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/mame4ios.plist"
 
 	}]
 
