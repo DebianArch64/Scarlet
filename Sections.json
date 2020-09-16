@@ -79,6 +79,18 @@
 		"down": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/instarocket.plist"
 	
 	
+	}, {
+		"name": "Twitter++",
+		"icon": "https://github.com/DebianArch64/Crimson/raw/master/Icons/twitterplus.png",
+		"down": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/twitterplus.plist"
+	
+	
+	}, {
+		"name": "Reddit++",
+		"icon": "https://github.com/DebianArch64/Crimson/raw/master/Icons/redditplus.png",
+		"down": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/redditplus.plist"
+	
+	
 	}],
 
 	"Emulators": [{
