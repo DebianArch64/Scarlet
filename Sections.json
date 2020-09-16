@@ -42,11 +42,16 @@
 		"icon": "https://github.com/DebianArch64/Crimson/raw/master/Icons/FlappyBird.png",
 		"down": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/FlappyBird.plist"
 
+	}, {
+		"name": "iTorrent",
+		"icon": "https://github.com/DebianArch64/Crimson/raw/master/Icons/itorrent.png",
+		"down": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/itorrent.plist"
+
 	}],
 	"HackedGames": [{
-		"name": "FlappyBird",
-		"icon": "https://github.com/DebianArch64/Crimson/raw/master/Icons/FlappyBird.png",
-		"down": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/FlappyBird.plist"
+		"name": "Among Us!",
+		"icon": "https://github.com/DebianArch64/Crimson/raw/master/Icons/amongus.png",
+		"down": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/amongus.plist"
 
 	}],
 	"TweakedApps": [{
