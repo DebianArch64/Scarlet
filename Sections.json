@@ -63,6 +63,12 @@
 		"name": "Duolingo",
 		"icon": "https://github.com/DebianArch64/Crimson/raw/master/Icons/duolingo.png",
 		"down": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/duolingo.plist"
+	}, {
+		"name": "Instagram Rocket",
+		"icon": "https://github.com/DebianArch64/Crimson/raw/master/Icons/instarocket.png",
+		"down": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/instarocket.plist"
+	
+	
 	}],
 
 	"Emulators": [{
