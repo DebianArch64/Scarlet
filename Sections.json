@@ -1,43 +1,42 @@
-
 [{
 	"Credits": [{
-	"name": "DebianArch64",
-	"icon": "https://github.com/DebianArch64/Crimson/raw/master/Credits/Debian.jpg",
-	"status": "Owner/App Developer",
-	"link": "https://twitter.com/DebianArch"
-	
-	
-	
+		"name": "DebianArch64",
+		"icon": "https://github.com/DebianArch64/Crimson/raw/master/Credits/Debian.jpg",
+		"status": "Owner/App Developer",
+		"link": "https://twitter.com/DebianArch"
+
+
+
 	}],
 	"Jailbreaks": [{
 		"name": "unc0ver",
 		"icon": "https://github.com/DebianArch64/Crimson/raw/master/Icons/unc0ver.png",
 		"down": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/unc0ver.plist"
 	}, {
-	
-        "name": "Odyssey",
-        "icon": "https://github.com/DebianArch64/Crimson/raw/master/Icons/Odyssey.png",
-        "down": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/Odyssey.plist"
+
+		"name": "Odyssey",
+		"icon": "https://github.com/DebianArch64/Crimson/raw/master/Icons/Odyssey.png",
+		"down": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/Odyssey.plist"
 
 	}, {
 
-        "name": "Chimera",
-        "icon": "https://github.com/DebianArch64/Crimson/raw/master/Icons/chimera.png",
-        "down": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/chimera.plist"
+		"name": "Chimera",
+		"icon": "https://github.com/DebianArch64/Crimson/raw/master/Icons/chimera.png",
+		"down": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/chimera.plist"
 
-}, {
+	}, {
 
-        "name": "Electra",
-        "icon": "https://github.com/DebianArch64/Crimson/raw/master/Icons/electra.png",
-        "down": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/electra.plist"
+		"name": "Electra",
+		"icon": "https://github.com/DebianArch64/Crimson/raw/master/Icons/electra.png",
+		"down": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/electra.plist"
 
-}, {
+	}, {
 
-        "name": "RootlessJB4",
-        "icon": "https://github.com/DebianArch64/Crimson/raw/master/Icons/RootlessJB4.png",
-        "down": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/rootlessJB4.plist"
+		"name": "RootlessJB4",
+		"icon": "https://github.com/DebianArch64/Crimson/raw/master/Icons/RootlessJB4.png",
+		"down": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/rootlessJB4.plist"
 
-}],
+	}],
 	"CrimsonApps": [{
 		"name": "FlappyBird",
 		"icon": "https://github.com/DebianArch64/Crimson/raw/master/Icons/FlappyBird.png",
@@ -50,7 +49,7 @@
 		"down": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/FlappyBird.plist"
 
 	}],
-		"TweakedApps": [{
+	"TweakedApps": [{
 		"name": "Sposify w/ Spotilife",
 		"icon": "https://github.com/DebianArch64/Crimson/raw/master/Icons/sposify.png",
 		"down": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/sposify.plist"
@@ -60,9 +59,13 @@
 		"icon": "https://github.com/DebianArch64/Crimson/raw/master/Icons/cercube5.png",
 		"down": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/cercube5.plist"
 
-	}], 
+	}, {
+		"name": "Duolingo",
+		"icon": "https://github.com/DebianArch64/Crimson/raw/master/Icons/duolingo.png",
+		"down": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/duolingo.plist"
+	}],
 
-				"Emulators": [{
+	"Emulators": [{
 		"name": "DolphiniOSPsyPap",
 		"icon": "https://github.com/DebianArch64/Crimson/raw/master/Icons/dolphinios.png",
 		"down": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/dolphinios.plist"
