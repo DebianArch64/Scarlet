@@ -58,6 +58,11 @@
 		"icon": "https://github.com/DebianArch64/Crimson/raw/master/Icons/subwaysurfers.png",
 		"down": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/subwaysurfers.plist"
 
+	}, {
+		"name": "Geometry Dash",
+		"icon": "https://github.com/DebianArch64/Crimson/raw/master/Icons/geometrydash.png",
+		"down": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/geometrydash.plist"
+
 	}],
 	"TweakedApps": [{
 		"name": "Sposify w/ Spotilife",
