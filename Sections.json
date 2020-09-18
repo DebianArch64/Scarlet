@@ -63,11 +63,6 @@
 		"icon": "https://github.com/DebianArch64/Crimson/raw/master/Icons/subwaysurfers.png",
 		"down": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/subwaysurfers.plist"
 
-	}, {
-		"name": "Blades",
-		"icon": "https://github.com/DebianArch64/Crimson/raw/master/Icons/blades.png",
-		"down": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/blades.plist"
-
 	}],
 	"TweakedApps": [{
 		"name": "Sposify w/ Spotilife",
