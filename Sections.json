@@ -52,6 +52,11 @@
 		"icon": "https://github.com/DebianArch64/Crimson/raw/master/Icons/itorrent.png",
 		"down": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/itorrent.plist"
 
+	}, {
+		"name": "LumaFusion",
+		"icon": "https://github.com/DebianArch64/Crimson/raw/master/Icons/lumafusion.png",
+		"down": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/lumafusion.plist"
+
 	}],
 	"HackedGames": [{
 		"name": "Among Us!",
