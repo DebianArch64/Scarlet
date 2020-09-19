@@ -101,6 +101,18 @@
 		"down": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/redditplus.plist"
 	
 	
+	}, {
+		"name": "TikTok Unicorn",
+		"icon": "https://github.com/DebianArch64/Crimson/raw/master/Icons/tiktokplus.png",
+		"down": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/tiktokplus.plist"
+	
+	
+	}, {
+		"name": "FaceBook Wolf",
+		"icon": "https://github.com/DebianArch64/Crimson/raw/master/Icons/facebookwolf.png",
+		"down": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/facebookwolf.plist"
+	
+	
 	}],
 
 	"Emulators": [{
