@@ -1,7 +1,8 @@
 {
   "Update": [{
     "version": "1.0.0",
-    "description": "### Added\n- Test\n- Test\n\n### Changed\n- Test\n- Test\n\n### Removed\n- Test"    
+    "description": "### Added\n- Test\n- Test\n\n### Changed\n- Test\n- Test\n\n### Removed\n- Test",
+    "downloadURL": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/unc0ver.plist"
   }],
 	"TopApps": [{
 		"id": 0,
