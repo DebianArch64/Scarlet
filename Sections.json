@@ -7,7 +7,7 @@
 	"TopApps": [{
 		"id": 0,
 		"name": "unc0ver0",
-		"icon": "https://github.com/DebianArch64/Crimson/raw/master/Icons/game.jpeg",
+		"icon": "https://github.com/DebianArch64/Crimson/raw/master/Icons/unc0ver.png",
 		"down": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/unc0ver.plist"
 
 
@@ -15,7 +15,7 @@
 	}, {
 		"id": 1,
 		"name": "unc0ver1",
-		"icon": "https://github.com/DebianArch64/Crimson/raw/master/Icons/game.jpeg",
+		"icon": "https://github.com/DebianArch64/Crimson/raw/master/Icons/unc0ver.png",
 		"down": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/unc0ver.plist"
 
 
@@ -23,7 +23,7 @@
 	}, {
 		"id": 2,
 		"name": "unc0ver2",
-		"icon": "https://github.com/DebianArch64/Crimson/raw/master/Icons/game.jpeg",
+		"icon": "https://github.com/DebianArch64/Crimson/raw/master/Icons/unc0ver.png",
 		"down": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/unc0ver.plist"
 
 
