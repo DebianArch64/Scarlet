@@ -151,7 +151,7 @@
 		"name": "Delta",
 		"icon": "https://github.com/DebianArch64/Crimson/raw/master/Icons/delta.png",
 		"down": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/delta.plist"
-
+		"dev": "Riley Testut"
 	}, {
 		"name": "PPSSPP",
 		"icon": "https://github.com/DebianArch64/Crimson/raw/master/Icons/PPSSPP.png",
