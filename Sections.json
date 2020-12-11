@@ -8,23 +8,24 @@
 		"id": 0,
 		"name": "brandon0",
 		"icon": "https://github.com/DebianArch64/Crimson/raw/master/Icons/brandonBanner.png",
-		"down": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/unc0ver.plist"
-
+		"down": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/unc0ver.plist",
+		"description": "Description 1"
 
 
 	}, {
 		"id": 1,
 		"name": "brandon1",
 		"icon": "https://github.com/DebianArch64/Crimson/raw/master/Icons/brandonBanner.png",
-		"down": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/unc0ver.plist"
-
+		"down": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/unc0ver.plist",
+		"description": "Description 2"
 
 
 	}, {
 		"id": 2,
 		"name": "brandon2",
 		"icon": "https://github.com/DebianArch64/Crimson/raw/master/Icons/brandonBanner.png",
-		"down": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/unc0ver.plist"
+		"down": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/unc0ver.plist",
+		"description": "Description 3"
 
 
 
