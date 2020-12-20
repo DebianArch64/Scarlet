@@ -2,13 +2,13 @@
 	"Update": [{
 		"version": "1.0.1a",
 		"description": "### Added\n- Test\n- Test\n\n### Changed\n- Test\n- Test\n\n### Removed\n- Test",
-		"downloadURL": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/unc0ver.plist"
+		"downloadURL": "itms-services://?action=download-manifest&url=https://debianarch.com/Plist/unc0ver.plist"
 	}],
 	"TopApps": [{
 		"id": 0,
 		"name": "brandon0",
 		"icon": "https://github.com/DebianArch64/Crimson/raw/master/Icons/brandonBanner.png",
-		"down": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/unc0ver.plist",
+		"down": "itms-services://?action=download-manifest&url=https://debianarch.com/Plist/unc0ver.plist",
 		"description": "Description 1"
 
 
@@ -16,7 +16,7 @@
 		"id": 1,
 		"name": "brandon1",
 		"icon": "https://github.com/DebianArch64/Crimson/raw/master/Icons/brandonBanner.png",
-		"down": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/unc0ver.plist",
+		"down": "itms-services://?action=download-manifest&url=https://debianarch.com/Plist/unc0ver.plist",
 		"description": "Description 2"
 
 
@@ -24,7 +24,7 @@
 		"id": 2,
 		"name": "brandon2",
 		"icon": "https://github.com/DebianArch64/Crimson/raw/master/Icons/brandonBanner.png",
-		"down": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/unc0ver.plist",
+		"down": "itms-services://?action=download-manifest&url=https://debianarch.com/Plist/unc0ver.plist",
 		"description": "Description 3"
 
 
@@ -33,108 +33,108 @@
 	"Jailbreaks": [{
 		"name": "unc0ver",
 		"icon": "https://github.com/DebianArch64/Crimson/raw/master/Icons/unc0ver.png",
-		"down": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/unc0ver.plist",
+		"down": "itms-services://?action=download-manifest&url=https://debianarch.com/Plist/unc0ver.plist",
 		"version": "5.3.1",
 		"description": "unc0ver is designed to be stable and enable freedom from the moment you jail\u200Bbreak your device. Built-in runtime policy softener allows running code without Apple's notarization and pervasive restrictions. Proper runtime modifications to iOS kernel modify security features as necessary and result in:\r\n\r\n\r\nNo Extra Security Vulnerabilities\r\nunc0ver preserves security layers designed to protect your personal information and your iOS device by adjusting them as necessary instead of removing them. With this security adjusted on your iOS device, you can run your favorite jail\u200Bbreak apps and tweaks while still being protected from attackers.\r\n\r\n\r\nStability & Battery Life\r\nunc0ver is tirelessly developed and rigorously tested with software stability and battery life in mind. If you're experiencing issues with stability or battery life, we recommend searching your device for faulty tweaks.\r\n\r\n\r\nReconciliation of Services\r\nServices such as iCloud, iMessage, FaceTime, Apple Pay, Visual Voicemail, Weather, and Stocks, have been reconciled and still work on the device.\r\n\r\n\r\nFuture Software Updates\r\nThe ability to apply future updates is retained. Modifications to iOS kernel are done in memory. This results in the jailbroken iPhone, iPad, or iPod touch staying operable when a future Apple-supplied iOS update is installed.\r\n\r\n\r\niOS Updates\r\nunc0ver Team strongly cautions against installing any iOS software update that breaks unc0ver as you can't re-jail\u200Bbreak on versions of iOS that are not supported by unc0ver at that time.\r\n\r\n\r\nJail\u200Bbreak Legality\r\nIt is also important to note that iOS jail\u200Bbreaking is exempt and legal under DMCA. Any installed jail\u200Bbreak software can be uninstalled by re-jail\u200Bbreaking with the restore rootfs option to take Apple's service for an iPhone, iPad, or iPod touch that was previously jailbroken."
 	}, {
 
 		"name": "Odyssey",
 		"icon": "https://github.com/DebianArch64/Crimson/raw/master/Icons/Odyssey.png",
-		"down": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/Odyssey.plist"
+		"down": "itms-services://?action=download-manifest&url=https://debianarch.com/Plist/Odyssey.plist"
 
 	}, {
 
 		"name": "Chimera",
 		"icon": "https://github.com/DebianArch64/Crimson/raw/master/Icons/chimera.png",
-		"down": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/chimera.plist"
+		"down": "itms-services://?action=download-manifest&url=https://debianarch.com/Plist/chimera.plist"
 
 	}, {
 
 		"name": "Electra",
 		"icon": "https://github.com/DebianArch64/Crimson/raw/master/Icons/electra.png",
-		"down": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/electra.plist"
+		"down": "itms-services://?action=download-manifest&url=https://debianarch.com/Plist/electra.plist"
 
 	}, {
 
 		"name": "RootlessJB4",
 		"icon": "https://github.com/DebianArch64/Crimson/raw/master/Icons/RootlessJB4.png",
-		"down": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/rootlessJB4.plist"
+		"down": "itms-services://?action=download-manifest&url=https://debianarch.com/Plist/rootlessJB4.plist"
 
 	}],
 	"CrimsonApps": [{
 		"name": "FlappyBird",
 		"icon": "https://github.com/DebianArch64/Crimson/raw/master/Icons/FlappyBird.png",
-		"down": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/FlappyBird.plist"
+		"down": "itms-services://?action=download-manifest&url=https://debianarch.com/Plist/FlappyBird.plist"
 
 	}, {
 		"name": "Geometry Dash",
 		"icon": "https://github.com/DebianArch64/Crimson/raw/master/Icons/geometrydash.png",
-		"down": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/geometrydash.plist"
+		"down": "itms-services://?action=download-manifest&url=https://debianarch.com/Plist/geometrydash.plist"
 
 	}, {
 		"name": "iTorrent",
 		"icon": "https://github.com/DebianArch64/Crimson/raw/master/Icons/itorrent.png",
-		"down": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/itorrent.plist"
+		"down": "itms-services://?action=download-manifest&url=https://debianarch.com/Plist/itorrent.plist"
 
 	}, {
 		"name": "LumaFusion",
 		"icon": "https://github.com/DebianArch64/Crimson/raw/master/Icons/lumafusion.png",
-		"down": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/lumafusion.plist"
+		"down": "itms-services://?action=download-manifest&url=https://debianarch.com/Plist/lumafusion.plist"
 
 	}],
 	"HackedGames": [{
 		"name": "Among Us!",
 		"icon": "https://github.com/DebianArch64/Crimson/raw/master/Icons/amongus.png",
-		"down": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/amongus.plist"
+		"down": "itms-services://?action=download-manifest&url=https://debianarch.com/Plist/amongus.plist"
 
 	}, {
 		"name": "Subway Surfers",
 		"icon": "https://github.com/DebianArch64/Crimson/raw/master/Icons/subwaysurfers.png",
-		"down": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/subwaysurfers.plist"
+		"down": "itms-services://?action=download-manifest&url=https://debianarch.com/Plist/subwaysurfers.plist"
 
 	}],
 	"TweakedApps": [{
 		"name": "Sposify w/ Spotilife",
 		"icon": "https://github.com/DebianArch64/Crimson/raw/master/Icons/sposify.png",
-		"down": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/sposify.plist"
+		"down": "itms-services://?action=download-manifest&url=https://debianarch.com/Plist/sposify.plist"
 
 	}, {
 		"name": "Cercube5",
 		"icon": "https://github.com/DebianArch64/Crimson/raw/master/Icons/cercube5.png",
-		"down": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/cercube5.plist"
+		"down": "itms-services://?action=download-manifest&url=https://debianarch.com/Plist/cercube5.plist"
 
 	}, {
 		"name": "Duolingo",
 		"icon": "https://github.com/DebianArch64/Crimson/raw/master/Icons/duolingo.png",
-		"down": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/duolingo.plist"
+		"down": "itms-services://?action=download-manifest&url=https://debianarch.com/Plist/duolingo.plist"
 	}, {
 		"name": "Instagram Rocket",
 		"icon": "https://github.com/DebianArch64/Crimson/raw/master/Icons/instarocket.png",
-		"down": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/instarocket.plist"
+		"down": "itms-services://?action=download-manifest&url=https://debianarch.com/Plist/instarocket.plist"
 
 
 	}, {
 		"name": "Twitter++",
 		"icon": "https://github.com/DebianArch64/Crimson/raw/master/Icons/twitterplus.png",
-		"down": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/twitterplus.plist"
+		"down": "itms-services://?action=download-manifest&url=https://debianarch.com/Plist/twitterplus.plist"
 
 
 	}, {
 		"name": "Reddit++",
 		"icon": "https://github.com/DebianArch64/Crimson/raw/master/Icons/redditplus.png",
-		"down": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/redditplus.plist"
+		"down": "itms-services://?action=download-manifest&url=https://debianarch.com/Plist/redditplus.plist"
 
 
 	}, {
 		"name": "TikTok Unicorn",
 		"icon": "https://github.com/DebianArch64/Crimson/raw/master/Icons/tiktokplus.png",
-		"down": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/tiktokplus.plist"
+		"down": "itms-services://?action=download-manifest&url=https://debianarch.com/Plist/tiktokplus.plist"
 
 
 	}, {
 		"name": "FaceBook Wolf",
 		"icon": "https://github.com/DebianArch64/Crimson/raw/master/Icons/facebookwolf.png",
-		"down": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/facebookwolf.plist"
+		"down": "itms-services://?action=download-manifest&url=https://debianarch.com/Plist/facebookwolf.plist"
 
 
 	}],
@@ -142,32 +142,32 @@
 	"Emulators": [{
 		"name": "DolphiniOSPsyPap",
 		"icon": "https://github.com/DebianArch64/Crimson/raw/master/Icons/dolphinios.png",
-		"down": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/dolphinios.plist"
+		"down": "itms-services://?action=download-manifest&url=https://debianarch.com/Plist/dolphinios.plist"
 
 	}, {
 		"name": "iNDS",
 		"icon": "https://github.com/DebianArch64/Crimson/raw/master/Icons/inds.png",
-		"down": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/inds.plist"
+		"down": "itms-services://?action=download-manifest&url=https://debianarch.com/Plist/inds.plist"
 
 	}, {
 		"name": "Delta",
 		"icon": "https://github.com/DebianArch64/Crimson/raw/master/Icons/delta.png",
-		"down": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/delta.plist",
+		"down": "itms-services://?action=download-manifest&url=https://debianarch.com/Plist/delta.plist",
 		"dev": "Riley Testut"
 	}, {
 		"name": "PPSSPP",
 		"icon": "https://github.com/DebianArch64/Crimson/raw/master/Icons/PPSSPP.png",
-		"down": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/PPSSPP.plist"
+		"down": "itms-services://?action=download-manifest&url=https://debianarch.com/Plist/PPSSPP.plist"
 
 	}, {
 		"name": "MAME4iOS",
 		"icon": "https://github.com/DebianArch64/Crimson/raw/master/Icons/mame4ios.png",
-		"down": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/mame4ios.plist"
+		"down": "itms-services://?action=download-manifest&url=https://debianarch.com/Plist/mame4ios.plist"
 
 	}, {
 		"name": "UTM",
 		"icon": "https://github.com/DebianArch64/Crimson/raw/master/Icons/utm.png",
-		"down": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/DebianArch64/Crimson/master/Plist/utm.plist"
+		"down": "itms-services://?action=download-manifest&url=https://debianarch.com/Plist/utm.plist"
 
 	}]
 
