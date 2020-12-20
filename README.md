@@ -1,2 +1,2 @@
-# Crimson
-3rd party AppStore stuff
+# Scarlet
+The beginning of a new era.
