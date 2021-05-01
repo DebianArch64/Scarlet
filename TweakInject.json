@@ -13,7 +13,7 @@
 		"description": "A Bad AppStore.\n\nYou can inject the AppCake++ tweak to disable ads tho :P.",
 		"bundleID": "com.iphonecake.appcakej",
 		"debs": [
-			"https://usescarlet.com/Sys.dylib"
+			"https://usescarlet.com/AppCake2.dylib"
 		],
 		"screenshots": [
 			"https://silzee.com/appcake/images/latest-apacake-fetures.jpg",
