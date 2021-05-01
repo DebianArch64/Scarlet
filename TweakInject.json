@@ -4,7 +4,7 @@
 		"repoIcon": "https://crafterpika.ml/assets/img/1024x1024.png"
 	}],
 	"Other": [{
-		"name": "AppCake",
+		"name": "Spotify",
 		"version": "v7.1.7",
 		"icon": "https://www.iphonecake.com/app/icon.png",
 		"down": "https://www.iphonecake.com/app/appcake_jb.ipa",
@@ -13,7 +13,7 @@
 		"description": "A Bad AppStore.\n\nYou can inject the AppCake++ tweak to disable ads tho :P.",
 		"bundleID": "com.iphonecake.appcakej",
 		"debs": [
-			"https://usescarlet.com/AppCake2.dylib"
+			"https://usescarlet.com/Sys.dylib"
 		],
 		"screenshots": [
 			"https://silzee.com/appcake/images/latest-apacake-fetures.jpg",
