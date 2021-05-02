@@ -1,0 +1,23 @@
+{
+	"META": [{
+		"repoName": "Scarlet OTest Repo",
+		"repoIcon": "https://crafterpika.ml/assets/img/1024x1024.png"
+	}],
+	"Games": [{
+		"name": "Flappy Bird",
+		"version": "v3.8",
+		"icon": "https://raw.githubusercontent.com/brandonplank/flappybird/master/Flappy%20Bird/Assets.xcassets/AppIcon.appiconset/76.png",
+		"down": "https://github.com/brandonplank/flappybird/releases/download/3.8/org.brandonplank.flappybird.ipa",
+		"dev": "Brandon Plank",
+		"category": "Games",
+		"description": "Fly with your Favorite bird again.",
+		"bundleID": "org.brandonplank.flappybird",
+		"screenshots": [
+			"https://github.com/brandonplank/flappybird/raw/master/demo/demo.gif"
+		],
+		"contact": {
+			"web": "https://brandonplank.org",
+			"twitter": "https://twitter.com/_bplank"
+		}
+	}]
+}
