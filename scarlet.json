@@ -1,8 +1,8 @@
 {
-	"META": [{
+	"META": {
 		"repoName": "Scarlet OTest Repo",
 		"repoIcon": "https://crafterpika.ml/assets/img/1024x1024.png"
-	}],
+	},
 	"Games": [{
 		"name": "Flappy Bird",
 		"version": "v3.8",
@@ -15,9 +15,9 @@
 		"screenshots": [
 			"https://github.com/brandonplank/flappybird/raw/master/demo/demo.gif"
 		],
-		"contact": {
+		"contact": [{
 			"web": "https://brandonplank.org",
 			"twitter": "https://twitter.com/_bplank"
-		}
+		}]
 	}]
 }
