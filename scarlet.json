@@ -1,7 +1,7 @@
 {
 	"META": {
 		"repoName": "Scarlet OTest Repo",
-		"repoIcon": "https://crafterpika.ml/assets/img/1024x1024.png"
+		"repoIcon": "https://usescarlet.com/img/icon.png"
 	},
 	"Games": [{
 		"name": "Flappy Bird",
