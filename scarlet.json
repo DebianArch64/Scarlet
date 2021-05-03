@@ -32,7 +32,7 @@
 		"screenshots": [
 			"https://github.com/brandonplank/flappybird/raw/master/demo/demo.gif"
 		],
-		"debs": ["https://github.com/CrafterPika/ppsideloader_py/raw/files/Tweak/Spotilife_103A_jailed.zip", "https://github.com/CrafterPika/ppsideloader_py/raw/files/Tweak/libSposify.zip"],
+		"debs": ["https://usescarlet.com/debs/Spotilife.dylib", "https://usescarlet.com/debs/libSposify.dylib"],
 		"contact": {
 			"web": "https://brandonplank.org",
 			"twitter": "https://twitter.com/_bplank"
