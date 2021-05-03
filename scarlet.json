@@ -22,13 +22,13 @@
 	}],
 	"Tweaked": [{
 		"name": "Spotify++",
-		"version": "v3.8",
+		"version": "8.4.65",
 		"icon": "https://raw.githubusercontent.com/brandonplank/flappybird/master/Flappy%20Bird/Assets.xcassets/AppIcon.appiconset/76.png",
 		"down": "https://github.com/CrafterPika/ppsideloader_py/raw/files/IPA/Spotify_v8.4.65.ipa",
 		"dev": "Julioverne",
 		"category": "Tweaked",
-		"description": "Fly with your Favorite bird again.",
-		"bundleID": "org.brandonplank.flappybird",
+		"description": "An Always up-to-date Spotify Client !",
+		"bundleID": "com.spotify.client",
 		"screenshots": [
 			"https://github.com/brandonplank/flappybird/raw/master/demo/demo.gif"
 		],
