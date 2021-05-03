@@ -5,7 +5,7 @@
 	},
 	"Games": [{
 		"name": "Flappy Bird",
-		"version": "v3.8",
+		"version": "3.8",
 		"icon": "https://raw.githubusercontent.com/brandonplank/flappybird/master/Flappy%20Bird/Assets.xcassets/AppIcon.appiconset/76.png",
 		"down": "https://github.com/brandonplank/flappybird/releases/download/3.8/org.brandonplank.flappybird.ipa",
 		"dev": "Brandon Plank",
