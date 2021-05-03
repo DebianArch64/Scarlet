@@ -41,7 +41,7 @@
             "name": "AppCake",
             "version": "7.1.0",
             "icon": "https://www.iphonecake.com/app/icon.png",
-            "down": "https://www.iphonecake.com/app/appcake_jb.ipav",
+            "down": "https://www.iphonecake.com/app/appcake_jb.ipa",
             "dev": "iPhoneCake.com",
             "category": "Other",
             "description": "A Bad AppStore.\n\nYou can inject the AppCake++ tweak to disable ads tho :P.",
