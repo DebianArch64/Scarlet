@@ -21,21 +21,21 @@
 		}
 	}],
 	"Tweaked": [{
-		"name": "Spotify++",
-		"version": "8.4.65",
+		"name": "YouTube Reborn",
+		"version": "16.17.4",
 		"icon": "https://raw.githubusercontent.com/brandonplank/flappybird/master/Flappy%20Bird/Assets.xcassets/AppIcon.appiconset/76.png",
-		"down": "https://github.com/CrafterPika/ppsideloader_py/raw/files/IPA/Spotify_v8.4.65.ipa",
-		"dev": "Julioverne",
+		"down": "https://resources.usescarlet.com/repo/IPAs/YouTube.ipa",
+		"dev": "SarahH12099",
 		"category": "Tweaked",
-		"description": "An Always up-to-date Spotify Client !",
-		"bundleID": "com.spotify.client",
+		"description": "Cercube alternative with no ads",
+		"bundleID": "com.google.ios.youtube",
 		"screenshots": [
 			"https://github.com/brandonplank/flappybird/raw/master/demo/demo.gif"
 		],
-		"debs": ["https://usescarlet.com/debs/Spotilife.dylib"],
+		"debs": ["https://usescarlet.com/debs/YouTubeReborn.dylib"],
 		"contact": {
-			"web": "https://brandonplank.org",
-			"twitter": "https://twitter.com/_bplank"
+			"web": "https://youtube.com",
+			"twitter": "https://twitter.com/YouTube"
 		}
 	}, {
             "name": "AppCake",
