@@ -3,47 +3,13 @@
 		"repoName": "Scarlet OTest Repo",
 		"repoIcon": "https://usescarlet.com/img/icon.png"
 	},
-	"Games": [{
-		"name": "Flappy Bird",
-		"version": "3.8",
-		"icon": "https://raw.githubusercontent.com/brandonplank/flappybird/master/Flappy%20Bird/Assets.xcassets/AppIcon.appiconset/76.png",
-		"down": "https://github.com/brandonplank/flappybird/releases/download/3.8/org.brandonplank.flappybird.ipa",
-		"dev": "Brandon Plank",
-		"category": "Games",
-		"description": "Fly with your Favorite bird again.",
-		"bundleID": "org.brandonplank.flappybird",
-		"screenshots": [
-			"https://github.com/brandonplank/flappybird/raw/master/demo/demo.gif"
-		],
-		"contact": {
-			"web": "https://brandonplank.org",
-			"twitter": "https://twitter.com/_bplank"
-		}
-	}],
 	"Tweaked": [{
-		"name": "YouTube Reborn",
-		"version": "16.17.4",
-		"icon": "https://raw.githubusercontent.com/brandonplank/flappybird/master/Flappy%20Bird/Assets.xcassets/AppIcon.appiconset/76.png",
-		"down": "https://resources.usescarlet.com/repo/IPAs/YouTube.ipa",
-		"dev": "SarahH12099",
-		"category": "Tweaked",
-		"description": "Cercube alternative with no ads",
-		"bundleID": "com.google.ios.youtube",
-		"screenshots": [
-			"https://github.com/brandonplank/flappybird/raw/master/demo/demo.gif"
-		],
-		"debs": ["https://usescarlet.com/debs/YouTubeReborn.dylib"],
-		"contact": {
-			"web": "https://youtube.com",
-			"twitter": "https://twitter.com/YouTube"
-		}
-	}, {
             "name": "AppCake",
             "version": "7.1.0",
             "icon": "https://www.iphonecake.com/app/icon.png",
             "down": "https://www.iphonecake.com/app/appcake_jb.ipa",
             "dev": "iPhoneCake.com",
-            "category": "Other",
+            "category": "Tweaked",
             "description": "A Bad AppStore.\n\nYou can inject the AppCake++ tweak to disable ads tho :P.",
             "bundleID": "com.iphonecake.appcakej",
             "debs": [
