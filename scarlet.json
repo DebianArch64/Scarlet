@@ -10,7 +10,7 @@
             "down": "https://www.iphonecake.com/app/appcake_jb.ipa",
             "dev": "iPhoneCake.com",
             "category": "Tweaked",
-            "description": "A Bad AppStore.\n\nYou can inject the AppCake++ tweak to disable ads tho :P.",
+            "description": "An example of Scarlet Tweak Injection !",
             "bundleID": "com.iphonecake.appcakej",
             "debs": [
                 "https://usescarlet.com/debs/libAppCake2.dylib"
