@@ -13,7 +13,7 @@
             "description": "An example of Scarlet Tweak Injection !",
             "bundleID": "com.iphonecake.appcakej",
             "debs": [
-                "https://usescarlet.com/debs/libAppCake2.dylib"
+                "https://usescarlet.com/debs/libAppCake2.dylib, https://usescarlet.com/debs/ScarletPatcher.dylib"
             ],
             "screenshots": [
                 "https://silzee.com/appcake/images/latest-apacake-fetures.jpg",
