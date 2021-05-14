@@ -33,7 +33,7 @@
             "icon": "https://www.iphonecake.com/app/icon.png",
             "down": "https://www.iphonecake.com/app/appcake_jb.ipa",
             "dev": "iPhoneCake.com",
-            "category": "Tweaked",
+            "category": "ScarletTest",
             "description": "An example of Scarlet App Jailed App Detection ( Testing this out at home ; Don't worry about it xD)",
             "bundleID": "com.iphonecake.appcakej",
             "debs": [
