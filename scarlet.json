@@ -26,29 +26,25 @@
                "web": "https://www.iphonecake.com/app/",
                 "twitter":"https://twitter.com/iphonecake_com/"
 	    }
-        }], 
-	"ScarletTest": [{
-            "name": "AppCake",
-            "version": "7.1.0",
-            "icon": "https://www.iphonecake.com/app/icon.png",
-            "down": "https://www.iphonecake.com/app/appcake_jb.ipa",
-            "dev": "iPhoneCake.com",
-            "category": "ScarletTest",
-            "description": "An example of Scarlet App Jailed App Detection ( Testing this out at home ; Don't worry about it xD)",
-            "bundleID": "com.iphonecake.appcakej",
+        }, 
+		   {
+            "name": "YouTube Reborn",
+            "version": "16.20.5",
+            "icon": "",
+            "down": "https://resources.usescarlet.com/repo/YouTube.ipa",
+            "dev": "Sarahh12099",
+            "category": "Tweaked",
+            "description": "True ad-less YouTube...",
+            "bundleID": "com.google.ios.youtube",
             "debs": [
-                "https://usescarlet.com/debs/ScarletPatcher.dylib"
+                "https://usescarlet.com/debs/YouTubeReborn.dylib"
             ],
             "screenshots": [
-                "https://silzee.com/appcake/images/latest-apacake-fetures.jpg",
-                "https://silzee.com/appcake/images/popular-img-appcake.jpg",
-                "https://silzee.com/appcake/images/tweaked-latest.jpg",
-                "https://silzee.com/appcake/images/download-PlankFilza.png",
-                "https://silzee.com/appcake/images/settings-app.jpg"
+                "https://media.tenor.com/images/461a7c321425e447814ec90bb0a72faa/tenor.gif"
             ],
             "contact": {
-               "web": "https://www.iphonecake.com/app/",
-                "twitter":"https://twitter.com/iphonecake_com/"
+               "web": "https://repo.twickd.com",
+                "twitter":"https://twitter.com/twickdrepo"
 	    }
         }]
 }
