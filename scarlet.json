@@ -37,7 +37,26 @@
             "description": "True ad-less YouTube...",
             "bundleID": "com.google.ios.youtube",
             "debs": [
-                "https://usescarlet.com/debs/YouTubeReborn.deb"
+                "https://usescarlet.com/debs/YouTubeReborn.dylib"
+            ],
+            "screenshots": [
+                "https://media.tenor.com/images/461a7c321425e447814ec90bb0a72faa/tenor.gif"
+            ],
+            "contact": {
+               "web": "https://repo.twickd.com",
+                "twitter":"https://twitter.com/twickdrepo"
+	    }
+        }, {
+            "name": "Cercube",
+            "version": "16.20.5",
+            "icon": "",
+            "down": "https://resources.usescarlet.com/repo/IPAs/YouTube.ipa",
+            "dev": "Sarahh12099",
+            "category": "Tweaked",
+            "description": "I'm Testing out deb support ; don't worry !",
+            "bundleID": "com.google.ios.youtube",
+            "debs": [
+                "https://usescarlet.com/debs/Cercube.deb"
             ],
             "screenshots": [
                 "https://media.tenor.com/images/461a7c321425e447814ec90bb0a72faa/tenor.gif"
