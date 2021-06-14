@@ -3,37 +3,14 @@
 		"repoName": "Scarlet OTest Repo",
 		"repoIcon": "https://usescarlet.com/img/icon.png"
 	},
-	"Tweaked": [{
-            "name": "AppCake",
-            "version": "7.1.0",
-            "icon": "https://www.iphonecake.com/app/icon.png",
-            "down": "https://www.iphonecake.com/app/appcake_jb.ipa",
-            "dev": "iPhoneCake.com",
-            "category": "Tweaked",
-            "description": "An example of Scarlet Tweak Injection !",
-            "bundleID": "com.iphonecake.appcakej",
-            "debs": [
-                "https://usescarlet.com/debs/libAppCake2.dylib"
-            ],
-            "screenshots": [
-                "https://silzee.com/appcake/images/latest-apacake-fetures.jpg",
-                "https://silzee.com/appcake/images/popular-img-appcake.jpg",
-                "https://silzee.com/appcake/images/tweaked-latest.jpg",
-                "https://silzee.com/appcake/images/download-PlankFilza.png",
-                "https://silzee.com/appcake/images/settings-app.jpg"
-            ],
-            "contact": {
-               "web": "https://www.iphonecake.com/app/",
-                "twitter":"https://twitter.com/iphonecake_com/"
-	    }
-        }, 
+	"Tweaked": [
 		   {
             "name": "YouTube Reborn",
             "version": "16.20.5",
             "icon": "",
             "down": "https://resources.usescarlet.com/repo/IPAs/YouTube.ipa",
             "dev": "Sarahh12099",
-            "category": "Tweaked",
+            "category": "Tweaked Apps",
             "description": "True ad-less YouTube...",
             "bundleID": "com.google.ios.youtube",
             "debs": [
