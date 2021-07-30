@@ -11,6 +11,7 @@
             "down": "https://resources.usescarlet.com/repo/IPAs/YouTube.ipa",
             "dev": "Sarahh12099",
             "category": "Tweaked Apps",
+	    "changelog": "We fixed the tubes that bring your videos - and some bugs too.",
             "description": "True ad-less YouTube...",
             "bundleID": "com.google.ios.youtube",
             "debs": [
