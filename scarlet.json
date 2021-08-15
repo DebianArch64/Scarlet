@@ -24,25 +24,5 @@
                "web": "https://repo.twickd.com",
                 "twitter":"https://twitter.com/twickdrepo"
 	    }
-        }, {
-            "name": "uYou",
-            "version": "16.20.5",
-            "icon": "",
-            "down": "https://resources.usescarlet.com/repo/IPAs/YouTube.ipa",
-            "dev": "MiRO",
-            "category": "Tweaked Apps",
-	    "changelog": "We fixed the tubes that bring your videos - and some bugs too.",
-            "description": "The best tweak for the YouTube app!",
-            "bundleID": "com.google.ios.youtube",
-            "debs": [
-                "https://miro92.com/repo/debs/com.miro.uyou_1.0_iphoneos-arm.deb"
-            ],
-            "screenshots": [
-                "https://media.tenor.com/images/461a7c321425e447814ec90bb0a72faa/tenor.gif"
-            ],
-            "contact": {
-               "web": "https://miro92.com/repo/",
-                "twitter":"https://twitter.com/MiRO92"
-	    }
         }]
 }
