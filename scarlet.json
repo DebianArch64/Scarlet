@@ -1,6 +1,6 @@
 {
 	"META": {
-		"repoName": "Scarlet OTest Repo",
+		"repoName": "Scarlet Test Repo",
 		"repoIcon": "https://usescarlet.com/img/icon.png"
 	},
 	"Tweaked": [
@@ -46,9 +46,9 @@
     "Jailbreaks": [
     {
             "name": "Taurine",
-            "version": "1.0.4",
+            "version": "1.0.7",
             "icon": "https://cdn.discordapp.com/attachments/752890955236901055/829728600446074930/Taurine.png",
-            "down": "https://github.com/Odyssey-Team/Taurine/releases/download/1.0.4/Taurine-1.0.4.ipa",
+            "down": "https://github.com/Odyssey-Team/Taurine/releases/download/1.0.7/Taurine-1.0.7.ipa",
             "dev": "Odyssey-Team",
             "category": "Jailbreaks",
             "description": "Time to get amped.",
@@ -82,9 +82,9 @@
         },
         {
             "name": "unc0ver",
-            "version": "6.1.2",
+            "version": "6.2.0",
             "icon": "https://cdn.discordapp.com/attachments/752890955236901055/829731825802018896/unc0ver.png",
-            "down": "https://unc0ver.dev/downloads/6.1.2/56dd2827d0f4585f6cf21a8e08a1a4eba6f2cdb2/unc0ver_Release_6.1.2.ipa",
+            "down": "https://unc0ver.dev/downloads/6.2.0/15e18e455ca3971433261443a42355ee883a2092/unc0ver_Release_6.2.0.ipa",
             "dev": "unc0ver-Team",
             "category": "Jailbreaks",
             "bundleID": "science.xnu.undecimus",
