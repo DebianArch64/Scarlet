@@ -87,7 +87,7 @@
             "dev": "unc0ver-Team",
             "category": "Jailbreaks",
             "bundleID": "science.xnu.undecimus",
-            "description": "Why would you use this? There are better alternatives, such as Taurine and Odyssey.",
+           // "description": "Why would you use this? There are better alternatives, such as Taurine and Odyssey.",
             "screenshots": [
                 "https://raw.githubusercontent.com/pwn20wndstuff/Undecimus/master/Resources/Screenshot-1.PNG",
                 "https://raw.githubusercontent.com/pwn20wndstuff/Undecimus/master/Resources/Screenshot-2.PNG",
