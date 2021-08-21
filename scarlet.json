@@ -32,7 +32,6 @@
 	"category": "Tweaked Apps",
 	"description": "With iPogo you get a full set of tools to help you be the best. iPogo is a Simple, Powerful and Intuitive App.",
 	"bundleID": "com.nianticlabs.pokemongo",
-	"screenshots": ["https://ipogo.app/images/mobile-application/generic/feature-iphone-1.png"]
 	}, {
 	"name": "SpooferX",
 	"version": "0.217.0",
