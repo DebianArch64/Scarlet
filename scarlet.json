@@ -95,5 +95,15 @@
 				"https://twitter.com/pwn20wnd"
 			]
 		}
+	],
+	"Hacked Games": [{
+		"name": "GTA SA iOSGods",
+		"version": "2.2",
+		"icon": "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/03/88/11/03881119-53b8-9d2d-74f4-84ceb616255d/source/512x512bb.jpg",
+		"down": "https://resources.usescarlet.com/repo/IPAs/gtaSAiOSGods.ipa",
+		"category": "Hacked Games",
+		"description": "Hack Features:\n- God Mode\n- Infinite Ammo\n- Gun and cars spawn at house\n- Infinite Stamina",
+		"bundleID": "com.rockstargames.gta3sa"
+		}
 	]
 }
