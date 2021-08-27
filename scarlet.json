@@ -40,12 +40,20 @@
 		"changelog": "- Updated Game data\n- Added support for Gen8",
 		"description": "SpooferX for Pokémon GO is an enhanced edition of the Pokémon GO app, adding a joystick and with free teleport ! It also include a lot of others features : IV checking, enhanced throw, auto walking and GPX, fast catch trick, a live feed and even a map with everything around you !",
 		"bundleID": "com.nianticlabs.pokemongo"
+	}, {
+	"name": "Sposify++",
+		"version": "8.5.53",
+		"icon": "https://usescarlet.com/icons/spotify.png",
+		"down": "https://resources.usescarlet.com/repo/IPAs/SpotifySpos.ipa",
+		"category": "Tweaked Apps",
+		"description": "Sposify and Spotilife tweak merged into one app",
+		"bundleID": "com.spotify.client"
 	}],
 	"Jailbreaks": [{
 			"name": "Taurine",
-			"version": "1.0.7",
+			"version": "1.1.0",
 			"icon": "https://cdn.discordapp.com/attachments/752890955236901055/829728600446074930/Taurine.png",
-			"down": "https://github.com/Odyssey-Team/Taurine/releases/download/1.0.7/Taurine-1.0.7.ipa",
+			"down": "https://github.com/Odyssey-Team/Taurine/releases/download/1.1.0/Taurine-1.1.0.ipa",
 			"dev": "Odyssey-Team",
 			"category": "Jailbreaks",
 			"description": "Time to get amped.",
