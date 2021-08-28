@@ -120,5 +120,15 @@
 		"description": "Hack Features:\n- God Mode\n- Infinite Ammo\n- Gun and cars spawn at house\n- Infinite Stamina",
 		"bundleID": "com.rockstargames.gta3sa"
 		}
-	]
+	],
+	"Emulators": [{
+		"name": "iNDS",
+		"version": "1.10.8",
+		"icon": "https://iosninja.io/img/ipas/inds.png",
+		"down": "https://github.com/iNDS-Team/iNDS/releases/download/v1.10.8/iNDS.ipa",
+		"category": "Emulators",
+		"description": "",
+		"bundleID": "net.nerd.iNDS"
+		}
+	}]
 }
