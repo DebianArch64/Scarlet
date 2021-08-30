@@ -100,10 +100,11 @@
 			"dev": "unc0ver-Team",
 			"category": "Jailbreaks",
 			"bundleID": "science.xnu.undecimus",
+			"banner": "https://resources.usescarlet.com/Banners/unc0verbanner.png",
 			"screenshots": [
-				"https://raw.githubusercontent.com/pwn20wndstuff/Undecimus/master/Resources/Screenshot-1.PNG",
-				"https://raw.githubusercontent.com/pwn20wndstuff/Undecimus/master/Resources/Screenshot-2.PNG",
-				"https://raw.githubusercontent.com/pwn20wndstuff/Undecimus/master/Resources/Screenshot-3.PNG"
+				"https://resources.usescarlet.com/Screenshots/unc0verpg1.png",
+				"https://resources.usescarlet.com/Screenshots/unc0verpg2.png",
+				"https://resources.usescarlet.com/Screenshots/unc0verpg3.png"
 			],
 			"contact": [
 				"https://unc0ver.dev/",
