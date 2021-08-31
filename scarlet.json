@@ -54,8 +54,7 @@
 		"icon": "https://iosninja.io/img/ipas/instagram_rhino.png",
 		"down": "https://resources.usescarlet.com/repo/IPAs/instagramRhino.ipa",
 		"category": "Tweaked Apps",
-		"bundleID": "com.rhino.InstagramApp",
-		"debs": [ "https://usescarlet.com/debs/adlib-2.dylib" ]
+		"bundleID": "com.rhino.InstagramApp"
 	}],
 	"Jailbreaks": [{
 			"name": "Taurine",
