@@ -5,17 +5,14 @@
 	},
 	"Tweaked": [{
 		"name": "YouTube Reborn",
-		"version": "16.20.5",
+		"version": "16.34.3",
 		"icon": "",
-		"down": "https://resources.usescarlet.com/repo/IPAs/YouTube.ipa",
-		"dev": "Sarahh12099",
+		"down": "https://miro92.com/repo/depictions/com.miro.uyou/iPA/YouTube_16.34.3_uYou_1.6.zip",
+		"dev": "MiRO92",
 		"category": "Tweaked Apps",
 		"changelog": "We fixed the tubes that bring your videos - and some bugs too.",
 		"description": "True ad-less YouTube...",
 		"bundleID": "com.google.ios.youtube",
-		"debs": [
-			"https://usescarlet.com/debs/YouTubeReborn.dylib",
-		],
 		"screenshots": [
 			"https://media.tenor.com/images/461a7c321425e447814ec90bb0a72faa/tenor.gif"
 		],
