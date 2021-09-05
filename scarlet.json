@@ -4,24 +4,24 @@
 		"repoIcon": "https://usescarlet.com/img/icon.png"
 	},
 	"Tweaked": [{
-		"name": "YouTube++",
+		"name": "YouTube Reborn",
 		"version": "16.20.5",
 		"icon": "",
 		"down": "https://resources.usescarlet.com/repo/IPAs/YouTube.ipa",
-		"dev": "Alf Haily",
+		"dev": "Sarahh12099",
 		"category": "Tweaked Apps",
 		"changelog": "We fixed the tubes that bring your videos - and some bugs too.",
-		"description": "Ad-less YouTube...",
+		"description": "True ad-less YouTube...",
 		"bundleID": "com.google.ios.youtube",
 		"debs": [
-			"https://apt.alfhaily.me/files/me.alfhaily.cercube_5.3.1_iphoneos-arm.deb",
+			"https://usescarlet.com/debs/YouTubeReborn.dylib",
 		],
 		"screenshots": [
 			"https://media.tenor.com/images/461a7c321425e447814ec90bb0a72faa/tenor.gif"
 		],
 		"contact": {
-			"web": "https://apt.alfhaily.me/",
-			"twitter": "https://twitter.com/freemanrepo"
+			"web": "https://repo.twickd.com",
+			"twitter": "https://twitter.com/twickdrepo"
 		}
 	}, {
 		"name": "iPogo",
