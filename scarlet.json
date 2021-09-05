@@ -8,20 +8,20 @@
 		"version": "16.20.5",
 		"icon": "",
 		"down": "https://resources.usescarlet.com/repo/IPAs/YouTube.ipa",
-		"dev": "Sarahh12099",
+		"dev": "Alf Haily",
 		"category": "Tweaked Apps",
 		"changelog": "We fixed the tubes that bring your videos - and some bugs too.",
-		"description": "True ad-less YouTube...",
+		"description": "Ad-less YouTube...",
 		"bundleID": "com.google.ios.youtube",
 		"debs": [
-			"https://usescarlet.com/debs/YouTubeReborn.dylib",
+			"https://apt.alfhaily.me/files/me.alfhaily.cercube_5.3.1_iphoneos-arm.deb",
 		],
 		"screenshots": [
 			"https://media.tenor.com/images/461a7c321425e447814ec90bb0a72faa/tenor.gif"
 		],
 		"contact": {
-			"web": "https://repo.twickd.com",
-			"twitter": "https://twitter.com/twickdrepo"
+			"web": "https://apt.alfhaily.me/",
+			"twitter": "https://twitter.com/freemanrepo"
 		}
 	}, {
 		"name": "iPogo",
