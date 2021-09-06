@@ -63,6 +63,7 @@
 		"debs": [
 			"https://usescarlet.com/debs/com.pxcex.enlightvideoleaphack_0.0.2_iphoneos-arm.deb"
 		],
+		"changelog": "Updated VideoLeap tweak",
 		"category": "Tweaked Apps",
 		"bundleID": "com.lightricks.Enlight-Video"
 	}],
