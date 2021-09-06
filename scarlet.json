@@ -14,7 +14,7 @@
 		"description": "True ad-less YouTube...",
 		"bundleID": "com.google.ios.youtube",
 		"debs": [
-			"https://usescarlet.com/debs/YouTubeReborn.dylib",
+			"https://usescarlet.com/debs/YouTubeReborn.dylib"
 		],
 		"screenshots": [
 			"https://media.tenor.com/images/461a7c321425e447814ec90bb0a72faa/tenor.gif"
@@ -41,7 +41,7 @@
 		"description": "SpooferX for Pokémon GO is an enhanced edition of the Pokémon GO app, adding a joystick and with free teleport ! It also include a lot of others features : IV checking, enhanced throw, auto walking and GPX, fast catch trick, a live feed and even a map with everything around you !",
 		"bundleID": "com.nianticlabs.pokemongo"
 	}, {
-	"name": "Sposify++",
+		"name": "Sposify++",
 		"version": "8.5.53",
 		"icon": "https://usescarlet.com/icons/spotify.png",
 		"down": "https://resources.usescarlet.com/repo/IPAs/SpotifySpos.ipa",
@@ -49,19 +49,19 @@
 		"description": "Sposify and Spotilife tweak merged into one app",
 		"bundleID": "com.spotify.client"
 	}, {
-	"name": "Instagram Rhino",
+		"name": "Instagram Rhino",
 		"version": "187.0",
 		"icon": "https://iosninja.io/img/ipas/instagram_rhino.png",
 		"down": "https://resources.usescarlet.com/repo/IPAs/instagramRhino.ipa",
 		"category": "Tweaked Apps",
 		"bundleID": "com.rhino.InstagramApp"
 	}, {
-	"name": "VideoLeap",
+		"name": "VideoLeap",
 		"version": "1.18.1",
 		"icon": "https://usescarlet.com/icons/videoleap.png",
 		"down": "https://resources.usescarlet.com/repo/IPAs/videoleap.ipa",
 		"debs": [
-			"https://usescarlet.com/debs/com.laxus.videoleap_1.12.6_iphoneos-arm.deb",
+			"https://usescarlet.com/debs/com.laxus.videoleap_1.12.6_iphoneos-arm.deb"
 		],
 		"category": "Tweaked Apps",
 		"bundleID": "com.lightricks.Enlight-Video"
@@ -130,8 +130,7 @@
 		"category": "Hacked Games",
 		"description": "Hack Features:\n- God Mode\n- Infinite Ammo\n- Gun and cars spawn at house\n- Infinite Stamina",
 		"bundleID": "com.rockstargames.gta3sa"
-		}
-	],
+	}],
 	"Emulators": [{
 		"name": "iNDS",
 		"version": "1.10.8",
@@ -140,5 +139,5 @@
 		"category": "Emulators",
 		"description": "",
 		"bundleID": "net.nerd.iNDS"
-		}]
+	}]
 }
