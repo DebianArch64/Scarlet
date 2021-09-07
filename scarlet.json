@@ -55,17 +55,6 @@
 		"down": "https://resources.usescarlet.com/repo/IPAs/instagramRhino.ipa",
 		"category": "Tweaked Apps",
 		"bundleID": "com.rhino.InstagramApp"
-	}, {
-		"name": "VideoLeap",
-		"version": "1.18.1",
-		"icon": "https://usescarlet.com/icons/videoleap.png",
-		"down": "https://resources.usescarlet.com/repo/IPAs/videoleap.ipa",
-		"debs": [
-			"https://usescarlet.com/debs/com.pxcex.enlightvideoleaphack_0.0.2_iphoneos-arm.deb"
-		],
-		"changelog": "Updated VideoLeap tweak",
-		"category": "Tweaked Apps",
-		"bundleID": "com.lightricks.Enlight-Video"
 	}],
 	"Jailbreaks": [{
 			"name": "Taurine",
@@ -123,15 +112,7 @@
 			]
 		}
 	],
-	"Hacked Games": [{
-		"name": "GTA SA iOSGods",
-		"version": "2.02.11",
-		"icon": "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/03/88/11/03881119-53b8-9d2d-74f4-84ceb616255d/source/512x512bb.jpg",
-		"down": "https://resources.usescarlet.com/repo/IPAs/gtaSAiOSGods.ipa",
-		"category": "Hacked Games",
-		"description": "Hack Features:\n- God Mode\n- Infinite Ammo\n- Gun and cars spawn at house\n- Infinite Stamina",
-		"bundleID": "com.rockstargames.gta3sa"
-	}],
+	"Hacked Games": [],
 	"Emulators": [{
 		"name": "iNDS",
 		"version": "1.10.8",
