@@ -47,7 +47,11 @@
 		"down": "https://resources.usescarlet.com/repo/IPAs/SpotifySpos.ipa",
 		"category": "Tweaked Apps",
 		"description": "Sposify and Spotilife tweak merged into one app",
-		"bundleID": "com.spotify.client"
+		"bundleID": "com.spotify.client",
+		"debs": [
+			"https://usescarlet.com/debs/Spotilife.dylib",
+			"https://usescarlet.com/debs/Sposify.dylib"
+		]
 	}, {
 		"name": "Instagram Rhino",
 		"version": "187.0",
