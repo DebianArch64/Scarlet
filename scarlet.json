@@ -50,9 +50,10 @@
 		"bundleID": "com.spotify.client",
 		"debs": [
 			"https://usescarlet.com/debs/Spotilife.dylib",
-			"https://usescarlet.com/debs/Sposify.dylib"
+			"https://usescarlet.com/debs/Sposify.dylib",
+			"https://usescarlet.com/debs/SposifyFix.dylib"
 		],
-		"changelog":"- Updated Spotilife and Sposify to latest version"
+		"changelog":"- Updated Spotilife and Sposify to latest version\n- Applied SposifyFix patch"
 	}, {
 		"name": "Instagram Rhino",
 		"version": "187.0",
