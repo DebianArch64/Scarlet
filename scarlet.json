@@ -130,18 +130,7 @@
 			]
 		}
 	],
-	"Hacked Games": [{
-	"name": "Weed Inc. Tycoon Hack",
-		"version": "2.90.9",
-		"icon": "",
-		"down": "https://resources.usescarlet.com/repo/IPAs/wIdleTycon.ipa",
-		"category": "Hacked Games",
-		"description": "Infinite currency.\niOSGods account required...",
-		"bundleID": "com.metamoki.weed",
-		"debs": [
-			"https://usescarlet.com/debs/WeedInc.dylib"
-		]
-	}],
+	"Hacked Games": [],
 	"Emulators": [{
 		"name": "iNDS",
 		"version": "1.10.8",
