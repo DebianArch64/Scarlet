@@ -73,6 +73,16 @@
 		"down": "https://resources.usescarlet.com/repo/IPAs/instagramRhino.ipa",
 		"category": "Tweaked Apps",
 		"bundleID": "com.rhino.InstagramApp"
+	}, {
+		"name": "Facebook Wolf",
+		"version": "336.0",
+		"icon": "https://iosninja.io/img/ipas/facebook.png",
+		"down": "https://resources.usescarlet.com/repo/IPAs/Facebook.ipa",
+		"category": "Tweaked Apps",
+		"bundleID": "com.facebook.Facebook",
+		"debs": [
+			"http://apt.thebigboss.org/repofiles/cydia/debs2.0/wolf_2.1.deb"
+		]
 	}],
 	"Jailbreaks": [{
 			"name": "Taurine",
