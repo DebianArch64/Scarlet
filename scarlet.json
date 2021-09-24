@@ -73,6 +73,16 @@
 		"down": "https://resources.usescarlet.com/repo/IPAs/instagramRhino.ipa",
 		"category": "Tweaked Apps",
 		"bundleID": "com.rhino.InstagramApp"
+	}, {
+		"name": "VideoStar",
+		"version": "10.7.1",
+		"icon": "",
+		"down": "https://resources.usescarlet.com/repo/IPAs/videoleap.ipa",
+		"category": "Tweaked Apps",
+ "debs": [
+			"https://usescarlet.com/debs/videostar.dylib"
+		],
+		"bundleID": "com.frontierdesign.videostar"
 	}],
 	"Jailbreaks": [{
 			"name": "Taurine",
