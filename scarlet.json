@@ -94,9 +94,9 @@
 		},
 		{
 			"name": "Odyssey",
-			"version": "1.4.0",
+			"version": "1.4.1",
 			"icon": "https://theodyssey.dev/assets/images/icon.png",
-			"down": "https://github.com/Odyssey-Team/Odyssey/releases/download/1.4.0/Odyssey-1.4.0.ipa",
+			"down": "https://github.com/Odyssey-Team/Odyssey/releases/download/1.4.1/Odyssey-1.4.1.ipa",
 			"dev": "Odyssey-Team",
 			"category": "Jailbreaks",
 			"bundleID": "org.coolstar.odyssey",
