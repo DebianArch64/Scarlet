@@ -29,7 +29,7 @@
 		"name": "iPogo",
 		"version": "0.221.0",
 		"icon": "https://usescarlet.com/icons/ipogo.png",
-		"down": "https://ipogo.app/download/ipogo-2.2.3.ipa",
+		"down": "https://ipogo.app/download/ipogo-2.2.4.ipa",
 		"category": "Tweaked Apps",
 		"description": "With iPogo you get a full set of tools to help you be the best. iPogo is a Simple, Powerful and Intuitive App.",
 		"screenshots": [
@@ -40,9 +40,9 @@
 		"bundleID": "com.nianticlabs.pokemongo"
 	}, {
 		"name": "SpooferX",
-		"version": "0.219.1",
+		"version": "0.221.0",
 		"icon": "https://usescarlet.com/icons/ipogo.png",
-		"down": "https://cdn.spooferx.com/SpooferX-0.219.1-0.42.ipa",
+		"down": "https://cdn.spooferx.com/SpooferX-0.221.0-0.43.ipa",
 		"category": "Tweaked Apps",
 		"changelog": "- Added Support for Latest version\n- Crash Fix on Raid Encounter\n- Bug Fixes",
 		"description": "SpooferX for Pokémon GO is an enhanced edition of the Pokémon GO app, adding a joystick and with free teleport ! It also include a lot of others features : IV checking, enhanced throw, auto walking and GPX, fast catch trick, a live feed and even a map with everything around you !",
