@@ -27,9 +27,9 @@
 		}
 	}, {
 		"name": "iPogo",
-		"version": "0.221.0",
+		"version": "0.221.2",
 		"icon": "https://usescarlet.com/icons/ipogo.png",
-		"down": "https://ipogo.app/download/ipogo-2.2.4.ipa",
+		"down": "https://ipogo.app/download/ipogo-2.2.5.ipa",
 		"category": "Tweaked Apps",
 		"description": "With iPogo you get a full set of tools to help you be the best. iPogo is a Simple, Powerful and Intuitive App.",
 		"screenshots": [
