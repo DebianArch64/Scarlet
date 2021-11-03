@@ -82,7 +82,8 @@
  "debs": [
 			"https://usescarlet.com/debs/videostar.dylib"
 		],
-		"bundleID": "com.frontierdesign.videostar"
+		"bundleID": "com.frontierdesign.videostar",
+		"appstore": "com.frontierdesign.videostar"
 	}],
 	"Jailbreaks": [{
 			"name": "Taurine",
