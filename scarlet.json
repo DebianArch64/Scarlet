@@ -72,7 +72,8 @@
 		"icon": "https://iosninja.io/img/ipas/instagram_rhino.png",
 		"down": "https://resources.usescarlet.com/repo/IPAs/instagramRhino.ipa",
 		"category": "Tweaked Apps",
-		"bundleID": "com.rhino.InstagramApp"
+		"bundleID": "com.rhino.InstagramApp",
+		"appstore": "com.burbn.instagram"
 	}, {
 		"name": "VideoStar",
 		"version": "8.3.2",
