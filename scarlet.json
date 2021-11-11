@@ -124,9 +124,9 @@
 		},
 		{
 			"name": "unc0ver",
-			"version": "7.0.1",
+			"version": "7.0.2",
 			"icon": "https://cdn.discordapp.com/attachments/752890955236901055/829731825802018896/unc0ver.png",
-			"down": "https://unc0ver.dev/downloads/7.0.1/4f30bccf1fe1d24f2764f0e78dc12c67bbd002d6/unc0ver_Release_7.0.1.ipa",
+			"down": "https://unc0ver.dev/downloads/7.0.2/11c3f7b0eea806ba3cac975f74dcc2cc4e916bac/unc0ver_Release_7.0.2.ipa",
 			"dev": "unc0ver-Team",
 			"category": "Jailbreaks",
 			"bundleID": "science.xnu.undecimus",
