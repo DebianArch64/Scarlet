@@ -151,5 +151,13 @@
 		"category": "Emulators",
 		"description": "",
 		"bundleID": "net.nerd.iNDS"
+	}, {
+		"name": "Delta iPac",
+		"version": "1.0",
+		"icon": "https://media.idownloadblog.com/wp-content/uploads/2017/05/Delta-Thumb-New.png",
+		"down": "https://github.com/ianclawson/Delta-iPac-Edition/releases/download/1.0.1/Delta-iPac.ipa",
+		"category": "Emulators",
+		"description": "A Fan-build of Delta, an all-in-one classic video game emulator for non-jailbroken iOS devices",
+		"bundleID": "com.ianclawson.DeltaPacEdition"
 	}]
 }
