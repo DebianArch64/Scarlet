@@ -10,7 +10,7 @@
 		"down": "https://resources.usescarlet.com/repo/IPAs/YouTube.ipa",
 		"dev": "Sarahh12099",
 		"category": "Tweaked Apps",
-		"changelog": "We fixed the tubes that bring your videos - and some bugs too.",
+		"changelog": "We fixed the tubes that bring your videos - and some bugs too.\n- Re-added dislike counter 😛",
 		"description": "True ad-less YouTube...",
 		"bundleID": "com.google.ios.youtube",
 		"debs": [
@@ -154,7 +154,7 @@
 		"bundleID": "net.nerd.iNDS"
 	}, {
 		"name": "Delta iPac",
-		"version": "1.0",
+		"version": "1",
 		"icon": "https://media.idownloadblog.com/wp-content/uploads/2017/05/Delta-Thumb-New.png",
 		"down": "https://github.com/ianclawson/Delta-iPac-Edition/releases/download/1.0.1/Delta-iPac.ipa",
 		"category": "Emulators",
