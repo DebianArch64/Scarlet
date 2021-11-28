@@ -10,7 +10,7 @@
 		"down": "https://resources.usescarlet.com/repo/IPAs/YouTube.ipa",
 		"dev": "Sarahh12099",
 		"category": "Tweaked Apps",
-		"changelog": "We fixed the tubes that bring your videos - and some bugs too.\n- Added back old quality picker\n- Added back dislike counter",
+		"changelog": "We fixed the tubes that bring your videos - and some bugs too.\n- Added back old quality picker\n- Added back dislike counter\n- Added PIP",
 		"description": "True ad-less YouTube...",
 		"bundleID": "com.google.ios.youtube",
 		"appstore": "com.google.ios.youtube",
