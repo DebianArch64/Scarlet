@@ -17,7 +17,8 @@
 		"debs": [
 			"https://usescarlet.com/debs/YouTubeReborn.dylib",
                         "https://usescarlet.com/debs/YTClassicVideoQuality.dylib",
-                        "https://usescarlet.com/debs/YouTubeDislikesReturn.dylib"
+                        "https://usescarlet.com/debs/YouTubeDislikesReturn.dylib",
+                        "https://usescarlet.com/debs/YouPiP.dylib"
 		],
 		"screenshots": [
 			"https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/c6/57/01/c6570194-e19c-2628-4a53-89542d5428ff/mzl.tvydhezj.png/460x0w.webp",
