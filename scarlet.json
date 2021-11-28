@@ -13,6 +13,7 @@
 		"changelog": "We fixed the tubes that bring your videos - and some bugs too.\n- Added back old quality picker\n- Added back dislike counter",
 		"description": "True ad-less YouTube...",
 		"bundleID": "com.google.ios.youtube",
+		"appstore": "com.google.ios.youtube",
 		"debs": [
 			"https://usescarlet.com/debs/YouTubeReborn.dylib",
                         "https://usescarlet.com/debs/YTClassicVideoQuality.dylib",
@@ -39,7 +40,8 @@
 		"https://is2-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/62/72/e8/6272e88b-c30b-240b-0c08-4ca65d6e6195/638f21d7-01eb-4a94-9228-eae0afcea70a_EN_S2_iOS_6.5.png/230x0w.webp",
 		"https://is3-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/0d/8f/11/0d8f11ae-a184-b978-d6f9-4361050daa02/65d1dd34-0861-491c-843b-387b210aab2e_EN_S3_iOS_6.5.png/230x0w.webp"
 		],
-		"bundleID": "com.nianticlabs.pokemongo"
+		"bundleID": "com.nianticlabs.pokemongo",
+		"appstore": "com.nianticlabs.pokemongo"
 	}, {
 		"name": "SpooferX",
 		"version": "0.223.0",
@@ -53,7 +55,8 @@
 		"https://is2-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/62/72/e8/6272e88b-c30b-240b-0c08-4ca65d6e6195/638f21d7-01eb-4a94-9228-eae0afcea70a_EN_S2_iOS_6.5.png/230x0w.webp",
 		"https://is3-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/0d/8f/11/0d8f11ae-a184-b978-d6f9-4361050daa02/65d1dd34-0861-491c-843b-387b210aab2e_EN_S3_iOS_6.5.png/230x0w.webp"
 		],
-		"bundleID": "com.nianticlabs.pokemongo"
+		"bundleID": "com.nianticlabs.pokemongo",
+		"appstore": "com.nianticlabs.pokemongo"
 	}, {
 		"name": "Sposify++",
 		"version": "8.6.42",
@@ -62,6 +65,7 @@
 		"category": "Tweaked Apps",
 		"description": "Sposify and Spotilife tweak merged into one app",
 		"bundleID": "com.spotify.client",
+		"appstore": "com.spotify.client",
 		"debs": [
 			"https://usescarlet.com/debs/Spotilife.dylib",
 			"https://usescarlet.com/debs/Sposify.dylib",
