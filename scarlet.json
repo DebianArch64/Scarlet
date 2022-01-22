@@ -31,9 +31,9 @@
 		}
 	}, {
 		"name": "iPogo",
-		"version": "0.223.0",
+		"version": "0.227.0",
 		"icon": "https://usescarlet.com/icons/ipogo.png",
-		"down": "https://ipogo.app/download/ipogo-2.2.8.ipa",
+		"down": "https://ipogo.app/download/ipogo-2.3.4.ipa",
 		"category": "Tweaked Apps",
 		"description": "With iPogo you get a full set of tools to help you be the best. iPogo is a Simple, Powerful and Intuitive App.",
 		"screenshots": [
@@ -45,11 +45,11 @@
 		"appstore": "com.nianticlabs.pokemongo"
 	}, {
 		"name": "SpooferX",
-		"version": "0.223.0",
+		"version": "0.227.0",
 		"icon": "https://usescarlet.com/icons/ipogo.png",
-		"down": "https://cdn.spooferx.com/SpooferX-0.223.0-0.47.ipa",
+		"down": "https://cdn.spooferx.com/SpooferX-0.227.0-0.54.ipa",
 		"category": "Tweaked Apps",
-		"changelog": "- Added Support for Latest version\n- Crash Fix on Raid Encounter\n- Bug Fixes",
+		"changelog": "- Added Support for Latest version\n- Fixed Crash on Auto Feed Buddy (Nia* changed something)\n- Improved Auto Feed Buddy\n- Added Auto Play with buddy (no visible option, after successful feeding it will auto play)\n- Removed Maximum FPS as its not required anymore",
 		"description": "SpooferX for Pokémon GO is an enhanced edition of the Pokémon GO app, adding a joystick and with free teleport ! It also include a lot of others features : IV checking, enhanced throw, auto walking and GPX, fast catch trick, a live feed and even a map with everything around you !",
 		"screenshots": [
 		"https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/a6/e8/b4/a6e8b487-acdd-444e-4f6c-7a013ec184d4/417050bb-74d9-4d82-aaad-26c24b2f9c26_EN_S1_iOS_6.5.png/230x0w.webp",
@@ -131,9 +131,9 @@
 		},
 		{
 			"name": "unc0ver",
-			"version": "7.0.2",
+			"version": "8.0.2",
 			"icon": "https://cdn.discordapp.com/attachments/752890955236901055/829731825802018896/unc0ver.png",
-			"down": "https://unc0ver.dev/downloads/7.0.2/11c3f7b0eea806ba3cac975f74dcc2cc4e916bac/unc0ver_Release_7.0.2.ipa",
+			"down": "https://unc0ver.dev/downloads/8.0.2/9e44edfbfd1905cadf23c3b9ad1d5bed683ce061/unc0ver_Release_8.0.2.ipa",
 			"dev": "unc0ver-Team",
 			"category": "Jailbreaks",
 			"bundleID": "science.xnu.undecimus",
