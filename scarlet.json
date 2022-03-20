@@ -31,9 +31,9 @@
 		}
 	}, {
 		"name": "iPogo",
-		"version": "0.227.0",
+		"version": "0.231.1",
 		"icon": "https://usescarlet.com/icons/ipogo.png",
-		"down": "https://ipogo.app/download/ipogo-2.3.4.ipa",
+		"down": "https://ipogo.app/download/ipogo-2.4.6.ipa",
 		"category": "Tweaked Apps",
 		"description": "With iPogo you get a full set of tools to help you be the best. iPogo is a Simple, Powerful and Intuitive App.",
 		"screenshots": [
@@ -45,17 +45,11 @@
 		"appstore": "com.nianticlabs.pokemongo"
 	}, {
 		"name": "SpooferX",
-		"version": "0.227.0",
-		"icon": "https://usescarlet.com/icons/ipogo.png",
-		"down": "https://cdn.spooferx.com/SpooferX-0.227.0-0.54.ipa",
+		"version": "0.231.1",
+		"down": "https://spooferx.com/ipa/SpooferX-0.231.1-0.54.ipa",
 		"category": "Tweaked Apps",
 		"changelog": "- Added Support for Latest version\n- Fixed Crash on Auto Feed Buddy (Nia* changed something)\n- Improved Auto Feed Buddy\n- Added Auto Play with buddy (no visible option, after successful feeding it will auto play)\n- Removed Maximum FPS as its not required anymore",
 		"description": "SpooferX for Pokémon GO is an enhanced edition of the Pokémon GO app, adding a joystick and with free teleport ! It also include a lot of others features : IV checking, enhanced throw, auto walking and GPX, fast catch trick, a live feed and even a map with everything around you !",
-		"screenshots": [
-		"https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/a6/e8/b4/a6e8b487-acdd-444e-4f6c-7a013ec184d4/417050bb-74d9-4d82-aaad-26c24b2f9c26_EN_S1_iOS_6.5.png/230x0w.webp",
-		"https://is2-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/62/72/e8/6272e88b-c30b-240b-0c08-4ca65d6e6195/638f21d7-01eb-4a94-9228-eae0afcea70a_EN_S2_iOS_6.5.png/230x0w.webp",
-		"https://is3-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/0d/8f/11/0d8f11ae-a184-b978-d6f9-4361050daa02/65d1dd34-0861-491c-843b-387b210aab2e_EN_S3_iOS_6.5.png/230x0w.webp"
-		],
 		"bundleID": "com.nianticlabs.pokemongo",
 		"appstore": "com.nianticlabs.pokemongo"
 	}, {
@@ -95,9 +89,9 @@
 	}],
 	"Jailbreaks": [{
 			"name": "Taurine",
-			"version": "1.1.1",
+			"version": "1.1.3",
 			"icon": "https://cdn.discordapp.com/attachments/752890955236901055/829728600446074930/Taurine.png",
-			"down": "https://github.com/Odyssey-Team/Taurine/releases/download/1.1.1/Taurine-1.1.1.ipa",
+			"down": "https://github.com/Odyssey-Team/Taurine/releases/download/1.1.3/Taurine-1.1.3.ipa",
 			"dev": "Odyssey-Team",
 			"category": "Jailbreaks",
 			"description": "Time to get amped.",
@@ -113,9 +107,9 @@
 		},
 		{
 			"name": "Odyssey",
-			"version": "1.4.1",
+			"version": "1.4.2",
 			"icon": "https://theodyssey.dev/assets/images/icon.png",
-			"down": "https://github.com/Odyssey-Team/Odyssey/releases/download/1.4.1/Odyssey-1.4.1.ipa",
+			"down": "https://github.com/Odyssey-Team/Odyssey/releases/download/v1.4.2/Odyssey-1.4.2.ipa",
 			"dev": "Odyssey-Team",
 			"category": "Jailbreaks",
 			"bundleID": "org.coolstar.odyssey",
