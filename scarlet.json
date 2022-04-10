@@ -4,37 +4,29 @@
 		"repoIcon": "https://usescarlet.com/img/icon.png"
 	},
 	"Tweaked": [{
-		"name": "YouTube Reborn",
-		"version": "17.11.2",
-		"down": "https://resources.usescarlet.com/repo/IPAs/YouTube.ipa",
-		"dev": "Sarahh12099",
+		"name": "uYou",
+		"version": "16.42.3",
+		"down": "https://miro92.com/repo/depictions/com.miro.uyou/iPA/YouTube_16.42.3_uYou_2.1.ipa",
 		"category": "Tweaked Apps",
-		"changelog": "We fixed the tubes that bring your videos - and some bugs too.\n- Added back old quality picker\n- Added back dislike counter\n- Added PIP",
 		"description": "True ad-less YouTube...",
 		"bundleID": "com.google.ios.youtube",
 		"appstore": "com.google.ios.youtube",
-		"debs": [
-			"https://usescarlet.com/debs/YouTubeReborn.dylib",
-                        "https://usescarlet.com/debs/YTClassicVideoQuality.dylib",
-                        "https://usescarlet.com/debs/YouTubeDislikesReturn.dylib",
-                        "https://usescarlet.com/debs/YouPiP.dylib"
-		],
 		"contact": {
 			"web": "https://repo.twickd.com",
 			"twitter": "https://twitter.com/twickdrepo"
 		}
 	}, {
 		"name": "iPogo",
-		"version": "0.231.1",
-		"down": "https://ipogo.app/download/ipogo-2.4.6.ipa",
+		"version": "0.233.0",
+		"down": "https://ipogo.app/download/ipogo-2.4.8.ipa",
 		"category": "Tweaked Apps",
 		"description": "With iPogo you get a full set of tools to help you be the best. iPogo is a Simple, Powerful and Intuitive App.",
 		"bundleID": "com.nianticlabs.pokemongo",
 		"appstore": "com.nianticlabs.pokemongo"
 	}, {
 		"name": "SpooferX",
-		"version": "0.231.1",
-		"down": "https://spooferx.com/ipa/SpooferX-0.231.1-0.54.ipa",
+		"version": "0.233.0",
+		"down": "https://www.spooferx.com/ipa/SpooferPro-0.233.0-0.69.ipa",
 		"category": "Tweaked Apps",
 		"changelog": "- Added Support for Latest version\n- Fixed Crash on Auto Feed Buddy (Nia* changed something)\n- Improved Auto Feed Buddy\n- Added Auto Play with buddy (no visible option, after successful feeding it will auto play)\n- Removed Maximum FPS as its not required anymore",
 		"description": "SpooferX for Pokémon GO is an enhanced edition of the Pokémon GO app, adding a joystick and with free teleport ! It also include a lot of others features : IV checking, enhanced throw, auto walking and GPX, fast catch trick, a live feed and even a map with everything around you !",
