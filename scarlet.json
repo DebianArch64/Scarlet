@@ -25,8 +25,8 @@
 		"appstore": "com.nianticlabs.pokemongo"
 	}, {
 		"name": "SpooferX",
-		"version": "0.233.0",
-		"down": "https://spooferx.com/ipa/SpooferX-0.233.0-0.54.ipa",
+		"version": "0.235.0",
+		"down": "https://spooferx.com/ipa/SpooferX-0.235.0-0.54.ipa",
 		"category": "Tweaked Apps",
 		"changelog": "- Added Support for Latest version\n- Fixed Crash on Auto Feed Buddy (Nia* changed something)\n- Improved Auto Feed Buddy\n- Added Auto Play with buddy (no visible option, after successful feeding it will auto play)\n- Removed Maximum FPS as its not required anymore",
 		"description": "SpooferX for Pokémon GO is an enhanced edition of the Pokémon GO app, adding a joystick and with free teleport ! It also include a lot of others features : IV checking, enhanced throw, auto walking and GPX, fast catch trick, a live feed and even a map with everything around you !",
