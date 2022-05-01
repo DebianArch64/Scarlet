@@ -123,7 +123,13 @@
 			]
 		}
 	],
-	"Hacked Games": [],
+	"Hacked Games": [{
+		"down": "https://resources.usescarlet.com/repo/IPAs/agario.ipa",
+		"version":"2.20.3",
+		"appstore": "com.miniclip.agar.io",
+		"bundleID": "com.miniclip.agar.io"
+		
+	}],
 	"Emulators": [{
 		"name": "iNDS",
 		"version": "1.10.8",
