@@ -17,9 +17,11 @@
 <key>bundle-identifier</key>
 <string>com.DebianArch.Scarlet</string>
 <key>bundle-version</key>
-<string>1.0.0a</string>
+<string>1.0</string>
 <key>kind</key>
 <string>software</string>
+<key>subtitle</key>
+<string>Scarlet</string>
 <key>title</key>
 <string>Scarlet</string>
 </dict>
