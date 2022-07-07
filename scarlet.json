@@ -17,8 +17,8 @@
 		}
 	}, {
 		"name": "iPogo",
-		"version": "0.241.0",
-		"down": "https://ipogo.app/download/ipogo-2.5.9.ipa",
+		"version": "0.241.1",
+		"down": "https://ipogo.app/download/ipogo-2.6.0.ipa",
 		"category": "Tweaked Apps",
 		"description": "With iPogo you get a full set of tools to help you be the best. iPogo is a Simple, Powerful and Intuitive App.",
 		"bundleID": "com.nianticlabs.pokemongo",
