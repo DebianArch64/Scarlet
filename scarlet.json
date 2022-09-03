@@ -5,8 +5,8 @@
 	},
 	"Tweaked": [{
 		"name": "uYou",
-		"version": "17.26.2",
-		"down": "https://github.com/qnblackcat/uYouPlus/releases/download/v17.26.2-2.1/uYouPlus_17.26.2_2.1.ipa",
+		"version": "17.34.3",
+		"down": "https://github.com/qnblackcat/uYouPlus/releases/download/v17.34.3-2.1/uYouPlus_17.34.3_2.1.ipa",
 		"category": "Tweaked Apps",
 		"description": "True ad-less YouTube...",
 		"bundleID": "com.google.ios.youtube",
@@ -17,8 +17,8 @@
 		}
 	}, {
 		"name": "iPogo",
-		"version": "0.245.2",
-		"down": "https://ipogo.app/download/ipogo-2.6.4.ipa",
+		"version": "0.247.0",
+		"down": "https://ipogo.app/download/ipogo-2.6.5.ipa",
 		"category": "Tweaked Apps",
 		"description": "With iPogo you get a full set of tools to help you be the best. iPogo is a Simple, Powerful and Intuitive App.",
 		"bundleID": "com.nianticlabs.pokemongo",
