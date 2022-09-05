@@ -25,8 +25,8 @@
 		"appstore": "com.nianticlabs.pokemongo"
 	}, {
 		"name": "SpooferX",
-		"version": "0.247.0",
-		"down": "https://www.spooferx.app/ipa/SpooferPro-0.247.0-0.93.ipa",
+		"version": "0.247.1",
+		"down": "https://www.spooferx.app/ipa/SpooferPro-0.247.1-0.94.ipa",
 		"category": "Tweaked Apps",
 		"changelog": "- Added Support for Latest version\n- Fixed Scarlet install error",
 		"description": "SpooferX for Pokémon GO is an enhanced edition of the Pokémon GO app, adding a joystick and with free teleport ! It also include a lot of others features : IV checking, enhanced throw, auto walking and GPX, fast catch trick, a live feed and even a map with everything around you !",
