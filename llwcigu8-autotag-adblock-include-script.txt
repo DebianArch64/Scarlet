@@ -1,1 +1,0 @@
-﻿<?php require_once __PATH_TO_FILE__ . "/adcash_antiadblock-llwcigu8.php"; ?>
