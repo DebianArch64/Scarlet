@@ -35,7 +35,6 @@
 	}, {
 		"name": "Sposify++",
 		"version": "8.6.42",
-		"icon": "https://usescarlet.com/icons/spotify.png",
 		"down": "https://resources.usescarlet.com/repo/IPAs/Spotify.ipa",
 		"category": "Tweaked Apps",
 		"description": "Sposify and Spotilife tweak merged into one app",
