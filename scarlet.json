@@ -1,12 +1,12 @@
 {
 	"META": {
 		"repoName": "Scarlet Repo",
-		"repoIcon": "https://usescarlet.com/img/icon.png"
+		"repoIcon": "https://usescarlet.com/favicon.png"
 	},
 	"Tweaked": [{
 		"name": "uYou",
-		"version": "17.41.2",
-		"down": "https://github.com/qnblackcat/uYouPlus/releases/download/v17.42.7-2.1/uYouPlus_17.42.7_2.1.ipa",
+		"version": "17.48.2",
+		"down": "https://github.com/qnblackcat/uYouPlus/releases/download/v17.48.2-2.1/uYouPlus_17.48.2_2.1.ipa",
 		"category": "Tweaked Apps",
 		"description": "True ad-less YouTube...",
 		"bundleID": "com.google.ios.youtube",
