@@ -45,7 +45,7 @@
 			"https://usescarlet.com/debs/Sposify.dylib",
 			"https://usescarlet.com/debs/SposifyFix.dylib"
 		],
-		"changelog":"- Updated Spotilife and Sposify to latest version\n- Applied SposifyFix patch"
+		"changelog": "- Updated Spotilife and Sposify to latest version\n- Applied SposifyFix patch"
 	}, {
 		"name": "Instagram Rhino",
 		"version": "187.0",
@@ -60,7 +60,7 @@
 		"icon": "https://usescarlet.com/icons/videostar.png",
 		"down": "https://resources.usescarlet.com/repo/IPAs/videostar.ipa",
 		"category": "Tweaked Apps",
- "debs": [
+		"debs": [
 			"https://usescarlet.com/debs/videostar.dylib"
 		],
 		"bundleID": "com.frontierdesign.videostar",
@@ -110,11 +110,10 @@
 			"dev": "unc0ver-Team",
 			"category": "Jailbreaks",
 			"bundleID": "science.xnu.undecimus",
-			"banner": "https://resources.usescarlet.com/Banners/unc0verbanner.jpg",
 			"screenshots": [
-				"https://resources.usescarlet.com/Screenshots/unc0verpg1.png",
-				"https://resources.usescarlet.com/Screenshots/unc0verpg2.png",
-				"https://resources.usescarlet.com/Screenshots/unc0verpg3.png"
+				"https://usescarlet.com/Repo/unc0verpg1.png",
+				"https://usescarlet.com/Repo/unc0verpg2.png",
+				"https://usescarlet.com/Repo/unc0verpg3.png"
 			],
 			"contact": [
 				"https://unc0ver.dev/",
@@ -122,14 +121,6 @@
 			]
 		}
 	],
-	"Hacked Games": [{
-		"name":"Agar.io",
-		"down": "https://resources.usescarlet.com/repo/IPAs/agario.ipa",
-		"version":"2.20.3",
-		"appstore": "com.miniclip.agar.io",
-		"bundleID": "com.miniclip.agar.io",
-		"category": "Hacked Games"
-	}],
 	"Emulators": [{
 		"name": "iNDS",
 		"version": "1.10.8",
