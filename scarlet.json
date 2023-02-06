@@ -45,7 +45,7 @@
 			"https://usescarlet.com/debs/Sposify.dylib",
 			"https://usescarlet.com/debs/SposifyFix.dylib"
 		],
-		"changelog": "- Updated Spotilife and Sposify to latest version\n- Applied SposifyFix patch"
+		"changelog": "- Updated Spotilife to v1.8"
 	}, {
 		"name": "Instagram Rhino",
 		"version": "187.0",
