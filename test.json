@@ -139,19 +139,19 @@
 		"bundleID": "com.ianclawson.DeltaPacEdition"
 	}],
 	"Other": [{
-		"name": "Scarlet Alpha",
+		"name": "ScarletAlpha",
 		"version": "1.0.1",
-		"icon": "http://usescarlet.com/icon.png",
-		"down": "http://resources.usescarlet.com/repo/IPAs/ScarletAlpha.ipa",
+		"icon": "https://usescarlet.com/icon.png",
+		"down": "https://resources.usescarlet.com/repo/IPAs/ScarletAlpha.ipa",
 		"description": "",
 		"bundleID": "com.DebianArch.Scarlet",
 		"category": "Alpha",
 		"changelog": "- Added ability to update Scarlet\n- New security measures"
 	}, {
-		"name": "Scarlet Cloud",
+		"name": "ScarletCloud",
 		"version": "1.0.1",
-		"icon": "http://usescarlet.com/icon.png",
-		"down": "http://resources.usescarlet.com/repo/IPAs/ScarletAlpha.ipa",
+		"icon": "https://usescarlet.com/icon.png",
+		"down": "https://resources.usescarlet.com/repo/IPAs/ScarletAlpha.ipa",
 		"description": "",
 		"bundleID": "com.DebianArch.Scarlet",
 		"category": "Cloud",
