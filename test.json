@@ -139,20 +139,20 @@
 		"bundleID": "com.ianclawson.DeltaPacEdition"
 	}],
 	"Other": [{
-		"name": "ScarletAlpha",
+		"name": "Scarlet",
 		"version": "1.0.1",
 		"icon": "https://usescarlet.com/icon.png",
 		"down": "https://resources.usescarlet.com/repo/IPAs/ScarletAlpha.ipa",
-		"description": "",
+		"description": "This is the standard version of Scarlet. Allowing you to tweak and sideload your apps along with import your own certificates or use with a paid developer account entirely computerless.",
 		"bundleID": "com.DebianArch.Scarlet",
 		"category": "Alpha",
 		"changelog": "- Added ability to update Scarlet\n- New security measures"
 	}, {
-		"name": "ScarletCloud",
+		"name": "Scarlet",
 		"version": "1.0.1",
 		"icon": "https://usescarlet.com/icon.png",
 		"down": "https://resources.usescarlet.com/repo/IPAs/ScarletAlpha.ipa",
-		"description": "",
+		"description": "This is the computer version of Scarlet. Allowing you to tweak and sideload your apps along with guaranteed no-revokes. Make sure to refresh your apps before the seven days !",
 		"bundleID": "com.DebianArch.Scarlet",
 		"category": "Cloud",
 		"changelog": "- Added ability to update Scarlet\n- New security measures"
