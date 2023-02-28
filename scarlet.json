@@ -140,7 +140,7 @@
 	}],
 	"Other": [{
 		"name": "Scarlet",
-		"version": "1.0.1",
+		"version": "1.0",
 		"icon": "https://usescarlet.com/icon.png",
 		"down": "https://resources.usescarlet.com/repo/IPAs/ScarletAlpha.ipa",
 		"description": "This is the standard version of Scarlet. Allowing you to tweak and sideload your apps along with import your own certificates or use with a paid developer account entirely computerless.",
