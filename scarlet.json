@@ -57,7 +57,6 @@
 	}, {
 		"name": "VideoStar",
 		"version": "8.3.2",
-		"icon": "https://usescarlet.com/icons/videostar.png",
 		"down": "https://resources.usescarlet.com/repo/IPAs/videostar.ipa",
 		"category": "Tweaked Apps",
 		"debs": [
