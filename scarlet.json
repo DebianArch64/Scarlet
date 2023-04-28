@@ -5,8 +5,8 @@
 	},
 	"Tweaked": [{
 		"name": "uYou+",
-		"version": "18.15.1",
-		"down": "https://github.com/qnblackcat/uYouPlus/releases/download/v18.15.1-3.0/uYouPlus_18.15.1_3.0.ipa",
+		"version": "18.14.1",
+		"down": "https://github.com/qnblackcat/uYouPlus/releases/download/v18.14.1-3.0/uYouPlus_18.14.1_3.0.ipa",
 		"category": "Tweaked Apps",
 		"description": "True ad-less YouTube...",
 		"bundleID": "com.google.ios.youtube",
