@@ -11,6 +11,7 @@
 		"description": "True ad-less YouTube...",
 		"bundleID": "com.google.ios.youtube",
 		"appstore": "com.google.ios.youtube",
+		"enableBackup": true,
 		"contact": {
 			"web": "https://repo.twickd.com",
 			"twitter": "https://twitter.com/twickdrepo"
@@ -40,6 +41,7 @@
 		"description": "Sposify and Spotilife tweak merged into one app",
 		"bundleID": "com.spotify.client",
 		"appstore": "com.spotify.client",
+		"enableBackup": true,
 		"debs": [
 			"https://usescarlet.com/debs/Spotilife.dylib",
 			"https://usescarlet.com/debs/Sposify.dylib",
@@ -127,7 +129,8 @@
 		"down": "https://github.com/iNDS-Team/iNDS/releases/download/v1.10.8/iNDS.ipa",
 		"category": "Emulators",
 		"description": "",
-		"bundleID": "net.nerd.iNDS"
+		"bundleID": "net.nerd.iNDS",
+		"enableBackup": true
 	}, {
 		"name": "Delta iPac",
 		"version": "1",
@@ -135,7 +138,16 @@
 		"down": "https://github.com/ianclawson/Delta-iPac-Edition/releases/download/1.0.1/Delta-iPac.ipa",
 		"category": "Emulators",
 		"description": "A Fan-build of Delta, an all-in-one classic video game emulator for non-jailbroken iOS devices",
-		"bundleID": "com.ianclawson.DeltaPacEdition"
+		"bundleID": "com.ianclawson.DeltaPacEdition",
+		"enableBackup": true
+	}, {
+		"name": "PPSSPP",
+		"version": "1.14.4",
+		"icon": "https://usescarlet.com/Repo/ppsspp.png",
+		"down": "https://p.xx.wtf/PPSSPP_v1.14.4-1451-gf87bfda8d.ipa",
+		"category": "Emulators",
+		"description": "PPSSPP can run your PSP games on your PC or Android phone in full HD resolution or even higher. It can also upscale textures to make them sharper, and you can enable post-processing shaders to adjust color and brightness the way you like, and other effects.",
+		"enableBackup": true
 	}],
 	"Other": [{
 		"name": "Scarlet",
