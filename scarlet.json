@@ -3,20 +3,7 @@
 		"repoName": "Scarlet Repo",
 		"repoIcon": "https://usescarlet.com/favicon.png"
 	},
-	"Tweaked": [{
-		"name": "uYou+",
-		"version": "18.14.1",
-		"down": "https://github.com/qnblackcat/uYouPlus/releases/download/v18.14.1-3.0/uYouPlus_18.14.1_3.0.ipa",
-		"category": "Tweaked Apps",
-		"description": "True ad-less YouTube...",
-		"bundleID": "com.google.ios.youtube",
-		"appstore": "com.google.ios.youtube",
-		"enableBackup": true,
-		"contact": {
-			"web": "https://repo.twickd.com",
-			"twitter": "https://twitter.com/twickdrepo"
-		}
-	}, {
+	"Games": [{
 		"name": "iPogo",
 		"version": "0.269.1",
 		"down": "https://ipogo.app/download/ipogo-2.8.9.ipa",
@@ -33,6 +20,20 @@
 		"description": "SpooferX for Pokémon GO is an enhanced edition of the Pokémon GO app, adding a joystick and with free teleport ! It also include a lot of others features : IV checking, enhanced throw, auto walking and GPX, fast catch trick, a live feed and even a map with everything around you !",
 		"bundleID": "com.nianticlabs.pokemongo",
 		"appstore": "com.nianticlabs.pokemongo"
+	}],
+	"Tweaked": [{
+		"name": "uYou+",
+		"version": "18.14.1",
+		"down": "https://github.com/qnblackcat/uYouPlus/releases/download/v18.14.1-3.0/uYouPlus_18.14.1_3.0.ipa",
+		"category": "Tweaked Apps",
+		"description": "True ad-less YouTube...",
+		"bundleID": "com.google.ios.youtube",
+		"appstore": "com.google.ios.youtube",
+		"enableBackup": true,
+		"contact": {
+			"web": "https://repo.twickd.com",
+			"twitter": "https://twitter.com/twickdrepo"
+		}
 	}, {
 		"name": "Sposify++",
 		"version": "8.6.42",
