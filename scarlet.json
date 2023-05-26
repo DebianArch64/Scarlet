@@ -144,7 +144,7 @@
 		"name": "PPSSPP",
 		"version": "1.15.3",
 		"icon": "https://usescarlet.com/Repo/ppsspp.png",
-		"down": "https://p.xx.wtf/PPSSPP_v1.15.3-24-g5ff7c39e6.ipa",
+		"down": "https://p.xx.wtf/PPSSPP_v1.15.4-68-g9379a6be3.ipa",
 		"category": "Emulators",
 		"description": "PPSSPP can run your PSP games on your PC or Android phone in full HD resolution or even higher. It can also upscale textures to make them sharper, and you can enable post-processing shaders to adjust color and brightness the way you like, and other effects.",
 		"enableBackup": true
