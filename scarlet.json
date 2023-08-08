@@ -27,7 +27,10 @@
 		"category": "Hacked Games",
 		"changelog": "- Added Support for Latest version",
 		"bundleID": "com.roblox.robloxmobile",
-		"appstore": "com.roblox.robloxmobile"
+		"appstore": "com.roblox.robloxmobile",
+		"debs": [
+			"https://script-ware.com/ios_repo/scriptware.dylib"
+		]
 	}],
 	"Tweaked": [{
 		"name": "uYou+",
