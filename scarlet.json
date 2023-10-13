@@ -78,7 +78,7 @@
     {
       "name": "VideoStar",
       "version": "12.1.9",
-      "down": "https://resources.usescarlet.com/repo/IPAs/videostar.ipa",
+      "down": "https://github.com/DebianArch64/ScarletDecrypt/releases/download/Latest/Video.Star.ipa",
       "category": "Tweaked Apps",
       "debs": [
         "https://usescarlet.com/debs/videostar.dylib"
