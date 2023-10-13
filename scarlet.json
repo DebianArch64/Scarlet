@@ -81,7 +81,7 @@
       "down": "https://github.com/DebianArch64/ScarletDecrypt/releases/download/Latest/Video.Star.ipa",
       "category": "Tweaked Apps",
       "debs": [
-        "https://usescarlet.com/debs/videostar.dylib"
+        "https://github.com/DebianArch64/ScarletDecrypt/releases/download/Latest/VideoStarHack.dylib"
       ],
       "bundleID": "com.frontierdesign.videostar",
       "appstore": "com.frontierdesign.videostar"
