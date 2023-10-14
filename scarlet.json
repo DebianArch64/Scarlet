@@ -85,6 +85,17 @@
       ],
       "bundleID": "com.frontierdesign.videostar",
       "appstore": "com.frontierdesign.videostar"
+    },
+    {
+      "name": "Vendetta",
+      "version": "0.0.0",
+      "down": "https://github.com/DebianArch64/ScarletDecrypt/releases/download/Latest/Discord.ipa",
+      "category": "Tweaked Apps",
+      "debs": [
+        "https://github.com/DebianArch64/ScarletDecrypt/releases/download/Latest/dev.beefers.vendetta_0.0.1_iphoneos-arm.deb"
+      ],
+      "bundleID": "com.hammerandchisel.discord",
+      "appstore": "com.hammerandchisel.discord"
     }
   ],
   "Jailbreaks": [
