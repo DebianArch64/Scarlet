@@ -88,7 +88,7 @@
     },
     {
       "name": "Vendetta",
-      "version": "0.0.0",
+      "version": "199.0",
       "down": "https://github.com/DebianArch64/ScarletDecrypt/releases/download/Latest/Discord.ipa",
       "category": "Tweaked Apps",
       "debs": [
