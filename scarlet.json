@@ -87,12 +87,12 @@
       "appstore": "com.frontierdesign.videostar"
     },
     {
-      "name": "Vendetta",
+      "name": "Enmity",
       "version": "199.0",
       "down": "https://github.com/DebianArch64/ScarletDecrypt/releases/download/Latest/Discord.-.Chat.Talk.Hangout.ipa",
       "category": "Tweaked Apps",
       "debs": [
-        "https://github.com/DebianArch64/ScarletDecrypt/releases/download/Latest/dev.beefers.vendetta_0.0.1_iphoneos-arm.deb"
+        "https://github.com/enmity-mod/tweak/releases/download/v2.2.6/Enmity.deb"
       ],
       "bundleID": "com.hammerandchisel.discord",
       "appstore": "com.hammerandchisel.discord"
