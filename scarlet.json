@@ -89,7 +89,7 @@
     {
       "name": "Vendetta",
       "version": "199.0",
-      "down": "https://github.com/DebianArch64/ScarletDecrypt/releases/download/Latest/Discord.ipa",
+      "down": "https://github.com/DebianArch64/ScarletDecrypt/releases/download/Latest/Discord.-.Chat.Talk.Hangout.ipa",
       "category": "Tweaked Apps",
       "debs": [
         "https://github.com/DebianArch64/ScarletDecrypt/releases/download/Latest/dev.beefers.vendetta_0.0.1_iphoneos-arm.deb"
