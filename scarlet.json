@@ -157,7 +157,7 @@
     {
       "name": "Delta iPac",
       "version": "1",
-      "icon": "https://raw.githubusercontent.com/rileytestut/Delta/main/Resources/Assets.xcassets/AppIcon.appiconset/icon-180.png",
+      "icon": "https://raw.githubusercontent.com/rileytestut/Delta/main/Resources/Assets.xcassets/AppIcon.appiconset/icon-1024.png",
       "down": "https://github.com/ianclawson/Delta-iPac-Edition/releases/download/1.0.1/Delta-iPac.ipa",
       "category": "Emulators",
       "description": "A Fan-build of Delta, an all-in-one classic video game emulator for non-jailbroken iOS devices",
