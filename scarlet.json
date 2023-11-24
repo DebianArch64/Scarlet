@@ -32,7 +32,7 @@
       "bundleID": "com.roblox.robloxmobile",
       "appstore": "com.roblox.robloxmobile",
       "debs": [
-        "https://script-ware.com/ios_repo/scriptware.dylib"
+        "https://github.com/DebianArch64/ScarletDecrypt/releases/download/Latest/scriptware.dylib"
       ]
     }
   ],
