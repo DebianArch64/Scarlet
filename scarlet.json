@@ -6,8 +6,8 @@
   "Games": [
     {
       "name": "iPogo",
-      "version": "0.299.1",
-      "down": "https://ipogo.app/download/ipogo-3.2.4.ipa",
+      "version": "0.301.0",
+      "down": "https://ipogo.app/download/ipogo-3.2.5.ipa",
       "category": "Hacked Games",
       "description": "With iPogo you get a full set of tools to help you be the best. iPogo is a Simple, Powerful and Intuitive App.",
       "bundleID": "com.nianticlabs.pokemongo",
@@ -15,8 +15,8 @@
     },
     {
       "name": "SpooferX",
-      "version": "0.299.1",
-      "down": "https://www.spooferx.app/ipa/SpooferPro-0.299.1-0.271.ipa",
+      "version": "0.301.0",
+      "down": "https://www.spooferx.app/ipa/SpooferPro-0.301.0-0.283.ipa",
       "category": "Hacked Games",
       "changelog": "- Added Support for Latest version\n- Fixed Scarlet install error",
       "description": "SpooferX for Pok\u00e9mon GO is an enhanced edition of the Pok\u00e9mon GO app, adding a joystick and with free teleport ! It also include a lot of others features : IV checking, enhanced throw, auto walking and GPX, fast catch trick, a live feed and even a map with everything around you !",
@@ -39,8 +39,8 @@
   "Tweaked": [
     {
       "name": "uYou++",
-      "version": "19.02.1",
-      "down": "https://github.com/arichornlover/uYouEnhanced/releases/download/v19.02.1-3.0.1/uYouEnhanced_19.02.1_3.0.1.ipa",
+      "version": "19.08.2",
+      "down": "https://github.com/qnblackcat/uYouPlus/releases/download/v19.08.2-3.0.3/uYouPlus-19.08.2-3.0.3.ipa",
       "category": "Tweaked Apps",
       "description": "True ad-less YouTube...",
       "bundleID": "com.google.ios.youtube",
