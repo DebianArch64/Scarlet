@@ -38,20 +38,6 @@
   ],
   "Tweaked": [
     {
-      "name": "uYou++",
-      "version": "19.08.2",
-      "down": "https://web.archive.org/web/20240306195805if_/https://objects.githubusercontent.com/github-production-release-asset-2e65be/409807214/164323db-9524-43b0-a9b9-3a4f314c7839?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240306%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240306T195805Z&X-Amz-Expires=300&X-Amz-Signature=16987278dac78e8d7be5a7f61d2796b6979d5695fe26a0f22ea45cebc9b66881&X-Amz-SignedHeaders=host&actor_id=0&key_id=0&repo_id=409807214&response-content-disposition=attachment%3B%20filename%3DuYouPlus-19.08.2-3.0.3.ipa&response-content-type=application%2Foctet-stream",
-      "category": "Tweaked Apps",
-      "description": "True ad-less YouTube...",
-      "bundleID": "com.google.ios.youtube",
-      "appstore": "com.google.ios.youtube",
-      "enableBackup": true,
-      "contact": {
-        "web": "https://repo.twickd.com",
-        "twitter": "https://twitter.com/twickdrepo"
-      }
-    },
-    {
       "name": "Sposify++",
       "version": "8.6.42",
       "down": "https://resources.usescarlet.com/repo/IPAs/Spotify.ipa",
