@@ -6,8 +6,8 @@
   "Games": [
     {
       "name": "iPogo",
-      "version": "0.329.2",
-      "down": "https://ipogo.app/download/ipogo-3.5.2.ipa",
+      "version": "0.331.1",
+      "down": "https://ipogo.app/download/ipogo-3.5.5.ipa",
       "category": "Hacked Games",
       "description": "With iPogo you get a full set of tools to help you be the best. iPogo is a Simple, Powerful and Intuitive App.",
       "bundleID": "com.nianticlabs.pokemongo",
@@ -15,25 +15,13 @@
     },
     {
       "name": "SpooferX",
-      "version": "0.329.2",
-      "down": "https://www.spooferx.app/ipa/SpooferPro-0.329.2-0.389.ipa",
+      "version": "0.331.1",
+      "down": "https://www.spooferx.app/ipa/SpooferPro-0.331.1-0.394.ipa",
       "category": "Hacked Games",
       "changelog": "- Added Support for Latest version\n- Fixed Scarlet install error",
       "description": "SpooferX for Pok\u00e9mon GO is an enhanced edition of the Pok\u00e9mon GO app, adding a joystick and with free teleport ! It also include a lot of others features : IV checking, enhanced throw, auto walking and GPX, fast catch trick, a live feed and even a map with everything around you !",
       "bundleID": "com.nianticlabs.pokemongo",
       "appstore": "com.nianticlabs.pokemongo"
-    },
-    {
-      "name": "Scriptware",
-      "version": "2.594.524",
-      "down": "https://github.com/DebianArch64/ScarletDecrypt/releases/download/Latest/Roblox.ipa",
-      "category": "Hacked Games",
-      "changelog": "- Added Support for Latest version",
-      "bundleID": "com.roblox.robloxmobile",
-      "appstore": "com.roblox.robloxmobile",
-      "debs": [
-        "https://github.com/DebianArch64/ScarletDecrypt/releases/download/Latest/scriptware.dylib"
-      ]
     }
   ],
   "Tweaked": [
