@@ -63,6 +63,24 @@
   ],
   "Jailbreaks": [
     {
+      "name": "Dopamine",
+      "version": "2.2.2",
+      "icon": "https://ellekit.space/dopamine/assets/icon.png",
+      "down": "https://github.com/opa334/Dopamine/releases/latest/download/Dopamine.ipa",
+      "dev": "opa334",
+      "category": "Jailbreaks",
+      "description": "iOS 15.0 - 16.6.1 jailbreak",
+      "bundleID": "com.opa334.Dopamine",
+      "screenshots": [
+        "https://ellekit.space/dopamine/assets/screenshot_one.png",
+        "https://ellekit.space/dopamine/assets/screenshot_two.png"
+      ],
+      "contact": [
+        "https://ellekit.space/dopamine/",
+        "https://twitter.com/opa334dev"
+      ]
+    },
+    {
       "name": "Taurine",
       "version": "1.1.7",
       "icon": "https://cdn.discordapp.com/attachments/752890955236901055/829728600446074930/Taurine.png",
