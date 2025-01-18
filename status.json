@@ -1,4 +1,34 @@
 {
-  "status":"Revoked",
-  "year": "2025"
+    "status": "Revoked",
+    "year": "2025",
+    "features": [
+        {
+            "name": "Jailed Tweak Injection",
+            "description": "Scarlet has the ability to inject tweaks into an IPA seamlessly using our repo system. You can also import debs or dylibs for installs or tweaking."
+        },
+        {
+            "name": "IPA Sideloading",
+            "description": "Sideload any IPA from directly within Scarlet without a limit of size or speed. The fastest and most stable app signer - all for free."
+        },
+        {
+            "name": "App Management",
+            "description": "See new updates as they become available and view currently installed apps from one place. Updating apps won’t cause data loss or having to reinstall entirely. You can also backup and restore your apps."
+        },
+        {
+            "name": "Repo System",
+            "description": "Add jailbroken repos that can be used from any jailed device. App installs work and so does app tweaking. We also have our own native repo system that can be used to expand the Scarlet library with support for tweak injection and customizations."
+        },
+        {
+            "name": "Computer Method",
+            "description": "Enjoying Scarlet, but want more ? We have a computer method just for this. No revokes or apple blacklistings and use anytime you want."
+        },
+        {
+            "name": "Modern GUI",
+            "description": "Scarlet was designed to fit the Apple ecosystem while portraying innovation, color, and movement throughout the app."
+        },
+        {
+            "name": "Certificate Management",
+            "description": "Import your own certificate or view the active one used for installs directly from the app."
+        }
+    ]
 }
