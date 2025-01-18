@@ -1,6 +1,9 @@
+:root {
+    overflow-x: hidden;
+}
+
 body {
     max-width: 100%; /* stop horizontal scroll */
-    height:auto!important;
     
     font-family: 'Montserrat', sans-serif;
     font-style: normal;
@@ -12,11 +15,6 @@ body {
     animation: fadeInAnimation linear 3s;
     animation-iteration-count: 1;
     animation-fill-mode: forwards;
-}
-
-html {
-    overflow-x: hidden; /* stop horizontal scroll */
-    height:auto!important;
 }
 
 a {
