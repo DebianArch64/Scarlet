@@ -30,5 +30,6 @@
             "name": "Certificate Management",
             "description": "Import your own certificate or view the active one used for installs directly from the app."
         }
-    ]
+    ],
+    "krava": true
 }
