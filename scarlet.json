@@ -6,8 +6,8 @@
   "Games": [
     {
       "name": "iPogo",
-      "version": "0.389.2",
-      "down": "https://ipogo.app/download/ipogo-4.0.8.ipa",
+      "version": "0.399.1",
+      "down": "https://ipogo.app/download/ipogo-4.1.5.ipa",
       "category": "Hacked Games",
       "description": "With iPogo you get a full set of tools to help you be the best. iPogo is a Simple, Powerful and Intuitive App.",
       "bundleID": "com.nianticlabs.pokemongo",
@@ -15,8 +15,8 @@
     },
     {
       "name": "SpooferX",
-      "version": "0.389.2",
-      "down": "https://www.spooferx.app/ipa/SpooferPro-0.391.0-0.583.ipa",
+      "version": "0.399.1",
+      "down": "https://www.spooferx.app/ipa/SpooferPro-0.399.1-0.623.ipa",
       "category": "Hacked Games",
       "changelog": "- Added Support for Latest version\n- Fixed Scarlet install error",
       "description": "SpooferX for Pok\u00e9mon GO is an enhanced edition of the Pok\u00e9mon GO app, adding a joystick and with free teleport ! It also include a lot of others features : IV checking, enhanced throw, auto walking and GPX, fast catch trick, a live feed and even a map with everything around you !",
@@ -64,7 +64,7 @@
   "Jailbreaks": [
     {
       "name": "Dopamine",
-      "version": "2.2.2",
+      "version": "2.4.7",
       "icon": "https://ellekit.space/dopamine/assets/icon.png",
       "down": "https://github.com/opa334/Dopamine/releases/latest/download/Dopamine.ipa",
       "dev": "opa334",
